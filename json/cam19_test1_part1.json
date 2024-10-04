@@ -1,0 +1,326 @@
+[
+    {
+        "start": 0.86,
+        "dur": 2.59,
+        "text": "Okay. What would you like to know?",
+        "vietnamese": "Được rồi. Bạn muốn biết điều gì?"
+    },
+    {
+        "start": 3.98,
+        "dur": 3.02,
+        "text": "Well, I'm new to this area,",
+        "vietnamese": "À, tôi mới đến khu vực này,"
+    },
+    {
+        "start": 7.17,
+        "dur": 4.0,
+        "text": "so perhaps you could tell me something about the park first, please.",
+        "vietnamese": "vì vậy có lẽ bạn có thể cho tôi biết điều gì đó về công viên trước."
+    },
+    {
+        "start": 11.25,
+        "dur": 1.15,
+        "text": "Of course.",
+        "vietnamese": "Tất nhiên rồi."
+    },
+    {
+        "start": 12.67,
+        "dur": 6.95,
+        "text": "Altogether the park covers 170 acres, that's 69 hectares.",
+        "vietnamese": "Tổng cộng công viên có diện tích 170 mẫu Anh, tức là 69 ha."
+    },
+    {
+        "start": 20.0,
+        "dur": 2.67,
+        "text": "There are three main types of habitat:",
+        "vietnamese": "Có ba loại môi trường sống chính:"
+    },
+    {
+        "start": 22.8,
+        "dur": 3.25,
+        "text": "wetland, grassland and woodland.",
+        "vietnamese": "vùng đất ngập nước, đồng cỏ và rừng."
+    },
+    {
+        "start": 26.32,
+        "dur": 7.28,
+        "text": "The woods are well established and varied, with an oak plantation, and other areas of mixed species.",
+        "vietnamese": "Các khu rừng được thiết lập tốt và đa dạng, với đồn điền sồi và các khu vực khác có nhiều loài hỗn hợp."
+    },
+    {
+        "start": 33.86,
+        "dur": 0.84,
+        "text": "Right.",
+        "vietnamese": "Phải."
+    },
+    {
+        "start": 34.8,
+        "dur": 2.54,
+        "text": "The wetland is quite varied, too.",
+        "vietnamese": "Vùng đất ngập nước cũng khá đa dạng."
+    },
+    {
+        "start": 37.64,
+        "dur": 5.5,
+        "text": "The original farmland was dug up around 40 years ago to extract gravel.",
+        "vietnamese": "Đất nông nghiệp ban đầu được đào lên khoảng 40 năm trước để lấy sỏi."
+    },
+    {
+        "start": 43.74,
+        "dur": 2.18,
+        "text": "Once this work was completed,",
+        "vietnamese": "Một khi công việc này được hoàn thành,"
+    },
+    {
+        "start": 46.2,
+        "dur": 4.58,
+        "text": "the gravel pits filled with water, forming the two large lakes.",
+        "vietnamese": "những hố sỏi chứa đầy nước tạo thành hai hồ nước lớn."
+    },
+    {
+        "start": 51.12,
+        "dur": 6.5,
+        "text": "There are also several smaller ones, ponds and a stream that flows through the park.",
+        "vietnamese": "Ngoài ra còn có một số cái nhỏ hơn, ao và suối chảy qua công viên."
+    },
+    {
+        "start": 57.94,
+        "dur": 7.38,
+        "text": "Okay, so I suppose with these different habitats there's quite a variety of wildlife.",
+        "vietnamese": "Được rồi, tôi cho rằng với những môi trường sống khác nhau này sẽ có khá nhiều loài động vật hoang dã."
+    },
+    {
+        "start": 65.4,
+        "dur": 1.52,
+        "text": "There certainly is.",
+        "vietnamese": "Chắc chắn là có."
+    },
+    {
+        "start": 67.28,
+        "dur": 4.08,
+        "text": "A lot of different species of birds and insects,",
+        "vietnamese": "Rất nhiều loài chim và côn trùng khác nhau,"
+    },
+    {
+        "start": 71.58,
+        "dur": 2.94,
+        "text": "and also animals like deer and rabbits.",
+        "vietnamese": "và cả những động vật như hươu và thỏ."
+    },
+    {
+        "start": 74.82,
+        "dur": 5.02,
+        "text": "And I understand you organise educational visits for school parties.",
+        "vietnamese": "Và tôi biết bạn tổ chức các chuyến tham quan giáo dục cho các bữa tiệc ở trường."
+    },
+    {
+        "start": 80.0,
+        "dur": 1.14,
+        "text": "That's right.",
+        "vietnamese": "Đúng vậy."
+    },
+    {
+        "start": 81.4,
+        "dur": 5.96,
+        "text": "We can organise a wide range of activities and adapt them to suit all ages.",
+        "vietnamese": "Chúng tôi có thể tổ chức nhiều hoạt động đa dạng và điều chỉnh chúng cho phù hợp với mọi lứa tuổi."
+    },
+    {
+        "start": 87.52,
+        "dur": 3.12,
+        "text": "Can you give me some examples of the activities?",
+        "vietnamese": "Bạn có thể cho tôi một số ví dụ về các hoạt động không?"
+    },
+    {
+        "start": 91.0,
+        "dur": 3.02,
+        "text": "Well, one focus is on science,",
+        "vietnamese": "Vâng, một trọng tâm là khoa học,"
+    },
+    {
+        "start": 94.22,
+        "dur": 5.04,
+        "text": "where we help children to discover and study plants, trees and insects.",
+        "vietnamese": "nơi chúng tôi giúp trẻ khám phá và nghiên cứu về thực vật, cây cối và côn trùng."
+    },
+    {
+        "start": 99.86,
+        "dur": 4.82,
+        "text": "They also collect and analyse data about the things they see.",
+        "vietnamese": "Họ cũng thu thập và phân tích dữ liệu về những thứ họ nhìn thấy."
+    },
+    {
+        "start": 105.5,
+        "dur": 2.54,
+        "text": "Another focus is on geography.",
+        "vietnamese": "Một trọng tâm khác là về địa lý."
+    },
+    {
+        "start": 108.5,
+        "dur": 5.02,
+        "text": "The park is a great environment to learn and practise reading a map",
+        "vietnamese": "Công viên là môi trường tuyệt vời để học và luyện đọc bản đồ"
+    },
+    {
+        "start": 113.82,
+        "dur": 3.32,
+        "text": "and using a compass to navigate around the park.",
+        "vietnamese": "và sử dụng la bàn để định hướng xung quanh công viên."
+    },
+    {
+        "start": 117.8,
+        "dur": 3.24,
+        "text": "Do you do anything connected with history?",
+        "vietnamese": "Bạn có làm bất cứ điều gì liên quan đến lịch sử?"
+    },
+    {
+        "start": 121.28,
+        "dur": 1.36,
+        "text": "Yes, we do.",
+        "vietnamese": "Vâng, chúng tôi làm vậy."
+    },
+    {
+        "start": 122.96,
+        "dur": 6.08,
+        "text": "For instance, the children can explore how the use of the land has changed over time.",
+        "vietnamese": "Ví dụ, trẻ có thể khám phá việc sử dụng đất đã thay đổi như thế nào theo thời gian."
+    },
+    {
+        "start": 129.56,
+        "dur": 2.06,
+        "text": "Then there's leisure and tourism.",
+        "vietnamese": "Sau đó là giải trí và du lịch."
+    },
+    {
+        "start": 131.88,
+        "dur": 3.82,
+        "text": "That focuses on your visitors, I would imagine.",
+        "vietnamese": "Điều đó tập trung vào khách truy cập của bạn, tôi nghĩ vậy."
+    },
+    {
+        "start": 136.02,
+        "dur": 1.24,
+        "text": "Yes, mostly.",
+        "vietnamese": "Vâng, hầu hết."
+    },
+    {
+        "start": 137.68,
+        "dur": 2.16,
+        "text": "The children find out about them,",
+        "vietnamese": "Các em tìm hiểu về chúng,"
+    },
+    {
+        "start": 140.06,
+        "dur": 5.02,
+        "text": "their requirements, the problems they may cause and how we manage these.",
+        "vietnamese": "yêu cầu của họ, những vấn đề họ có thể gây ra và cách chúng tôi quản lý những vấn đề này."
+    },
+    {
+        "start": 145.56,
+        "dur": 3.56,
+        "text": "And another subject we cover is music:",
+        "vietnamese": "Và một chủ đề khác mà chúng tôi đề cập đến là âm nhạc:"
+    },
+    {
+        "start": 149.66,
+        "dur": 5.26,
+        "text": "here the children experiment with natural materials to create sounds",
+        "vietnamese": "ở đây các em thử nghiệm các vật liệu tự nhiên để tạo ra âm thanh"
+    },
+    {
+        "start": 155.16,
+        "dur": 3.46,
+        "text": "and explore rhythm and tempo. That must be fun!",
+        "vietnamese": "và khám phá nhịp điệu và nhịp độ. Chắc là vui lắm!"
+    },
+    {
+        "start": 158.92,
+        "dur": 2.22,
+        "text": "Most children really enjoy it.",
+        "vietnamese": "Hầu hết trẻ em thực sự thích nó."
+    },
+    {
+        "start": 162.34,
+        "dur": 4.56,
+        "text": "And of course, all the activities are educational, too.",
+        "vietnamese": "Và tất nhiên, tất cả các hoạt động đều mang tính giáo dục."
+    },
+    {
+        "start": 167.4,
+        "dur": 4.96,
+        "text": "Learning outside the classroom encourages children to be creative,",
+        "vietnamese": "Học tập bên ngoài lớp học khuyến khích trẻ sáng tạo,"
+    },
+    {
+        "start": 172.52,
+        "dur": 3.22,
+        "text": "and to explore and discover for themselves.",
+        "vietnamese": "và tự tìm tòi, khám phá."
+    },
+    {
+        "start": 176.0,
+        "dur": 6.12,
+        "text": "I would imagine they get a sense of freedom that might not be a normal part of their lives.",
+        "vietnamese": "Tôi tưởng tượng họ có được cảm giác tự do mà có thể không phải là một phần bình thường trong cuộc sống của họ."
+    },
+    {
+        "start": 182.24,
+        "dur": 0.96,
+        "text": "That's right.",
+        "vietnamese": "Đúng vậy."
+    },
+    {
+        "start": 183.62,
+        "dur": 5.42,
+        "text": "And very often the children discover that they can do things they didn't know they could do,",
+        "vietnamese": "Và rất thường xuyên, bọn trẻ phát hiện ra rằng chúng có thể làm được những việc mà chúng không biết là mình có thể làm được,"
+    },
+    {
+        "start": 189.26,
+        "dur": 2.4,
+        "text": "and they develop new skills.",
+        "vietnamese": "và họ phát triển những kỹ năng mới."
+    },
+    {
+        "start": 192.24,
+        "dur": 2.48,
+        "text": "This gives them greater self-confidence.",
+        "vietnamese": "Điều này giúp họ tự tin hơn."
+    },
+    {
+        "start": 194.98,
+        "dur": 1.46,
+        "text": "It sounds great.",
+        "vietnamese": "Nghe có vẻ tuyệt vời."
+    },
+    {
+        "start": 197.22,
+        "dur": 3.52,
+        "text": "So, what about the practical side of it?",
+        "vietnamese": "Vậy còn mặt thực tế của nó thì sao?"
+    },
+    {
+        "start": 201.18,
+        "dur": 3.04,
+        "text": "How much does it cost for a full-day visit?",
+        "vietnamese": "Chi phí cho một chuyến thăm cả ngày là bao nhiêu?"
+    },
+    {
+        "start": 204.74,
+        "dur": 4.36,
+        "text": "We would expect to bring between 30 and 40 children.",
+        "vietnamese": "Chúng tôi dự kiến ​​sẽ mang theo từ 30 đến 40 trẻ em."
+    },
+    {
+        "start": 209.52,
+        "dur": 2.08,
+        "text": "If there are over 30,",
+        "vietnamese": "Nếu có trên 30,"
+    },
+    {
+        "start": 211.86,
+        "dur": 5.52,
+        "text": "it costs £4.95 for each child who attends on the day.",
+        "vietnamese": "chi phí là £4,95 cho mỗi đứa trẻ tham dự ngày này."
+    }
+]

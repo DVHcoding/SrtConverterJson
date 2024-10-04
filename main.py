@@ -74,4 +74,4 @@ def srt_to_json(srt_file, json_file):
     print("Completed!")  # Thông báo hoàn tất
 
 # Example usage
-srt_to_json('./BabyChickJump.srt', './BabyChickJump.json')
+srt_to_json('./srt/test.srt', './json/test.json')

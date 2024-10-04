@@ -48,4 +48,4 @@ def extract_single_words(json_file, output_file):
         json.dump(terms_definitions, f, ensure_ascii=False, indent=4)
 
 # Example usage
-extract_single_words('./BabyChickJump.json', './single_words.json')
+extract_single_words('./json/BabyChickJump.json', './json/single_words.json')
