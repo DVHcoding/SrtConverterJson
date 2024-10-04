@@ -1,0 +1,372 @@
+1
+00:00:00,460 --> 00:00:03,020
+Hi Coleman, how are you?
+
+2
+00:00:03,160 --> 00:00:04,380
+Good, thanks.
+
+3
+00:00:04,380 --> 00:00:06,420
+I wanted to have a chat with you
+
+4
+00:00:06,420 --> 00:00:11,320
+because our friend Josh told me that you've joined a guitar group
+
+5
+00:00:11,400 --> 00:00:13,600
+and it sounds interesting.
+
+6
+00:00:13,600 --> 00:00:16,060
+I'd really like to learn myself.
+
+7
+00:00:16,060 --> 00:00:18,180
+Why don't you come along?
+
+8
+00:00:18,180 --> 00:00:20,680
+I'm sure there's room for another person.
+
+9
+00:00:20,680 --> 00:00:21,900
+Really?
+
+10
+00:00:21,900 --> 00:00:25,080
+So... who runs the classes?
+
+11
+00:00:25,080 --> 00:00:27,780
+He's called a 'coordinator',
+
+12
+00:00:27,780 --> 00:00:30,820
+his name's Gary Mathieson.
+
+13
+00:00:30,820 --> 00:00:33,220
+Let me note that down.
+
+14
+00:00:33,220 --> 00:00:34,800
+Gary....
+
+15
+00:00:34,800 --> 00:00:37,120
+How do you spell his surname?
+
+16
+00:00:37,120 --> 00:00:48,160
+It's Mathieson.
+
+17
+00:00:48,160 --> 00:00:50,220
+Right, thanks.
+
+18
+00:00:50,220 --> 00:00:55,200
+He's retired, actually, but he's a really nice guy
+
+19
+00:00:55,200 --> 00:00:58,200
+and he used to play in a lot of bands.
+
+20
+00:00:58,200 --> 00:00:59,780
+Thanks.
+
+21
+00:00:59,780 --> 00:01:03,260
+So how long have you been going?
+
+22
+00:01:03,260 --> 00:01:05,260
+About a month now.
+
+23
+00:01:05,260 --> 00:01:09,300
+And could you play anything before you started?
+
+24
+00:01:09,580 --> 00:01:12,680
+I knew a few chords, but that's all.
+
+25
+00:01:12,760 --> 00:01:15,520
+I'm sure everyone will be better than me.
+
+26
+00:01:15,520 --> 00:01:17,720
+That's what I thought, too.
+
+27
+00:01:17,720 --> 00:01:20,600
+When I first spoke to Gary on the phone,
+
+28
+00:01:20,600 --> 00:01:23,580
+he said it was a class for beginners,
+
+29
+00:01:23,580 --> 00:01:27,400
+but I was still worried that everyone would be better than me,
+
+30
+00:01:27,400 --> 00:01:30,740
+but we were all equally hopeless!
+
+31
+00:01:30,740 --> 00:01:33,100
+Oh, that's reassuring.
+
+32
+00:01:33,100 --> 00:01:35,820
+So where do you meet?
+
+33
+00:01:35,820 --> 00:01:40,540
+Well, when I joined the group, they were meeting in Gary's home,
+
+34
+00:01:40,540 --> 00:01:46,580
+but as the group got bigger, he decided to book a room at the college in town.
+
+35
+00:01:46,580 --> 00:01:48,780
+I prefer going there.
+
+36
+00:01:48,780 --> 00:01:50,860
+I know that place.
+
+37
+00:01:50,860 --> 00:01:56,460
+I used to go to tap dancing classes there when I was at secondary school.
+
+38
+00:01:56,460 --> 00:02:02,560
+I haven't been since, though and I can't remember what road it's in...
+
+39
+00:02:02,560 --> 00:02:05,220
+Is it Lock Street?
+
+40
+00:02:05,220 --> 00:02:12,020
+It's just beyond there at the bottom of New Street near the city roundabout.
+
+41
+00:02:12,020 --> 00:02:14,180
+Yes, of course.
+
+42
+00:02:14,180 --> 00:02:20,940
+The guitar club is on the first floor in Room T347.
+
+43
+00:02:20,940 --> 00:02:22,400
+Right.
+
+44
+00:02:22,400 --> 00:02:25,140
+And when do you meet?
+
+45
+00:02:25,140 --> 00:02:27,140
+Is it at the weekend?
+
+46
+00:02:27,140 --> 00:02:29,600
+We meet on Thursdays.
+
+47
+00:02:29,600 --> 00:02:34,400
+It used to be 10.30 and that suited me well,
+
+48
+00:02:34,400 --> 00:02:37,860
+but now we meet at 11.
+
+49
+00:02:38,060 --> 00:02:44,160
+The class that's in there before us asked if they could have the room for another 30 minutes.
+
+50
+00:02:44,160 --> 00:02:46,040
+Oh, I see.
+
+51
+00:02:46,340 --> 00:02:51,680
+Well, I'd love to come, but I don't have a guitar.
+
+52
+00:02:51,680 --> 00:02:55,500
+Well, you can always buy a second-hand one.
+
+53
+00:02:55,500 --> 00:03:04,080
+There's a website called 'The perfect instrument' that sells all kinds of guitars, violins and so on.
+
+54
+00:03:04,080 --> 00:03:06,920
+I'm sure you'll find something there.
+
+55
+00:03:07,480 --> 00:03:12,100
+So what's a typical lesson like with Gary?
+
+56
+00:03:12,100 --> 00:03:17,540
+Well, he always starts by getting us to tune our guitars.
+
+57
+00:03:17,540 --> 00:03:20,140
+That takes about five minutes.
+
+58
+00:03:20,140 --> 00:03:21,220
+Uhuh...
+
+59
+00:03:21,220 --> 00:03:26,860
+Some people have an app they use, but others do it by ear.
+
+60
+00:03:27,100 --> 00:03:29,800
+Gary goes round and helps them.
+
+61
+00:03:29,800 --> 00:03:35,800
+And while he's doing that, he tells us what he's going to do during the lesson.
+
+62
+00:03:35,800 --> 00:03:37,320
+Right.
+
+63
+00:03:37,320 --> 00:03:43,400
+First, we usually spend about ten minutes doing some strumming.
+
+64
+00:03:43,400 --> 00:03:46,240
+So is that using...
+
+65
+00:03:46,240 --> 00:03:49,180
+Oh... what are they called...
+
+66
+00:03:49,180 --> 00:03:51,260
+Plectrums?
+
+67
+00:03:51,260 --> 00:03:54,460
+No, we just use our thumbs.
+
+68
+00:03:54,460 --> 00:03:56,460
+Oh... much easier.
+
+69
+00:03:56,460 --> 00:04:03,160
+Gary reminds us where to put our fingers for each chord and then we play them together.
+
+70
+00:04:03,440 --> 00:04:09,660
+Sometimes we all just start laughing because we're so bad at keeping time,
+
+71
+00:04:09,660 --> 00:04:13,520
+so Gary starts clapping to help us.
+
+72
+00:04:13,520 --> 00:04:16,380
+Do you learn to play any songs?
+
+73
+00:04:16,380 --> 00:04:21,920
+Yes, we do at least one song with words and chords.
+
+74
+00:04:21,920 --> 00:04:24,900
+I mean that's harder than you think.
+
+75
+00:04:24,900 --> 00:04:27,280
+Oh, I'm sure it is!
+
+76
+00:04:27,280 --> 00:04:31,700
+That part of the lesson takes about 15 minutes.
+
+77
+00:04:31,980 --> 00:04:37,820
+He often brings a recording of the song and plays it to us first.
+
+78
+00:04:38,040 --> 00:04:42,980
+Then he hands out the song and if there's a new chord in it,
+
+79
+00:04:42,980 --> 00:04:48,720
+we practise that before we play it together, but really slowly.
+
+80
+00:04:49,000 --> 00:04:51,860
+Do you do any finger picking?
+
+81
+00:04:51,860 --> 00:04:55,200
+That's the last ten minutes of the lesson,
+
+82
+00:04:55,200 --> 00:05:00,040
+when we pick out the individual notes from a tune he's made up.
+
+83
+00:05:00,040 --> 00:05:02,300
+It's always quite simple.
+
+84
+00:05:02,300 --> 00:05:04,460
+That must be hard, though.
+
+85
+00:05:05,040 --> 00:05:06,000
+It is.
+
+86
+00:05:06,240 --> 00:05:10,420
+But people like it because they can really concentrate
+
+87
+00:05:10,420 --> 00:05:15,400
+and if we're all playing well, it sounds quite impressive.
+
+88
+00:05:15,680 --> 00:05:23,620
+The only trouble is that he sometimes gets us to play one at a time, you know, alone.
+
+89
+00:05:23,620 --> 00:05:25,680
+Oh... that's scary.
+
+90
+00:05:25,680 --> 00:05:30,060
+Um... it is, but I've got used to it now.
+
+91
+00:05:30,500 --> 00:05:36,980
+At the end he spends about five minutes telling us what to practise for the following week.
+
+92
+00:05:36,980 --> 00:05:39,700
+Well, thanks Coleman.
+
+93
+00:05:39,700 --> 00:05:43,400
+I'll go and have a look at that website, I think.
+

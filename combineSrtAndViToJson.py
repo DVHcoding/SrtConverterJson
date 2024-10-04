@@ -80,4 +80,4 @@ def srt_to_json(srt_file_en, srt_file_vi, json_file):
     print("Completed!")  # Thông báo hoàn tất
 
 # Example usage
-srt_to_json('./srt/cam19_test1_part1.srt', './translateSrt/cam19_test1_part1.vi.srt', './json/cam19_test1_part1.json')
+srt_to_json('./srt/cam19_test1_part3.srt', './translateSrt/cam19_test1_part3.vi.srt', './json/cam19_test1_part3.json')

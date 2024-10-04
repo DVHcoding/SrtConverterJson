@@ -1,0 +1,560 @@
+[
+    {
+        "start": 0.46,
+        "dur": 2.56,
+        "text": "Hi Coleman, how are you?",
+        "vietnamese": "Xin chào Coleman, bạn khỏe không?"
+    },
+    {
+        "start": 3.16,
+        "dur": 1.22,
+        "text": "Good, thanks.",
+        "vietnamese": "Tốt, cảm ơn."
+    },
+    {
+        "start": 4.38,
+        "dur": 2.04,
+        "text": "I wanted to have a chat with you",
+        "vietnamese": "Tôi muốn trò chuyện với bạn"
+    },
+    {
+        "start": 6.42,
+        "dur": 4.9,
+        "text": "because our friend Josh told me that you've joined a guitar group",
+        "vietnamese": "bởi vì bạn của chúng ta Josh nói với tôi rằng bạn đã tham gia một nhóm guitar"
+    },
+    {
+        "start": 11.4,
+        "dur": 2.2,
+        "text": "and it sounds interesting.",
+        "vietnamese": "và nó nghe có vẻ thú vị."
+    },
+    {
+        "start": 13.6,
+        "dur": 2.46,
+        "text": "I'd really like to learn myself.",
+        "vietnamese": "Tôi thực sự muốn tự học."
+    },
+    {
+        "start": 16.06,
+        "dur": 2.12,
+        "text": "Why don't you come along?",
+        "vietnamese": "Tại sao bạn không đi cùng?"
+    },
+    {
+        "start": 18.18,
+        "dur": 2.5,
+        "text": "I'm sure there's room for another person.",
+        "vietnamese": "Tôi chắc chắn có chỗ cho người khác."
+    },
+    {
+        "start": 20.68,
+        "dur": 1.22,
+        "text": "Really?",
+        "vietnamese": "Thật sự?"
+    },
+    {
+        "start": 21.9,
+        "dur": 3.18,
+        "text": "So... who runs the classes?",
+        "vietnamese": "Vậy... ai điều hành lớp học?"
+    },
+    {
+        "start": 25.08,
+        "dur": 2.7,
+        "text": "He's called a 'coordinator',",
+        "vietnamese": "Anh ấy được gọi là 'điều phối viên',"
+    },
+    {
+        "start": 27.78,
+        "dur": 3.04,
+        "text": "his name's Gary Mathieson.",
+        "vietnamese": "tên anh ấy là Gary Mathieson."
+    },
+    {
+        "start": 30.82,
+        "dur": 2.4,
+        "text": "Let me note that down.",
+        "vietnamese": "Hãy để tôi ghi lại điều đó."
+    },
+    {
+        "start": 33.22,
+        "dur": 1.58,
+        "text": "Gary....",
+        "vietnamese": "Gary...."
+    },
+    {
+        "start": 34.8,
+        "dur": 2.32,
+        "text": "How do you spell his surname?",
+        "vietnamese": "Bạn đánh vần họ của anh ấy như thế nào?"
+    },
+    {
+        "start": 37.12,
+        "dur": 11.04,
+        "text": "It's Mathieson.",
+        "vietnamese": "Đó là Mathieson."
+    },
+    {
+        "start": 48.16,
+        "dur": 2.06,
+        "text": "Right, thanks.",
+        "vietnamese": "Đúng, cảm ơn."
+    },
+    {
+        "start": 50.22,
+        "dur": 4.98,
+        "text": "He's retired, actually, but he's a really nice guy",
+        "vietnamese": "Thực ra anh ấy đã nghỉ hưu nhưng anh ấy là một người rất tốt"
+    },
+    {
+        "start": 55.2,
+        "dur": 3.0,
+        "text": "and he used to play in a lot of bands.",
+        "vietnamese": "và anh ấy từng chơi trong rất nhiều ban nhạc."
+    },
+    {
+        "start": 58.2,
+        "dur": 1.58,
+        "text": "Thanks.",
+        "vietnamese": "Cảm ơn."
+    },
+    {
+        "start": 59.78,
+        "dur": 3.48,
+        "text": "So how long have you been going?",
+        "vietnamese": "Vậy bạn đã đi bao lâu rồi?"
+    },
+    {
+        "start": 63.26,
+        "dur": 2.0,
+        "text": "About a month now.",
+        "vietnamese": "Khoảng một tháng nay."
+    },
+    {
+        "start": 65.26,
+        "dur": 4.04,
+        "text": "And could you play anything before you started?",
+        "vietnamese": "Và bạn có thể chơi bất cứ thứ gì trước khi bắt đầu không?"
+    },
+    {
+        "start": 69.58,
+        "dur": 3.1,
+        "text": "I knew a few chords, but that's all.",
+        "vietnamese": "Tôi biết một vài hợp âm, nhưng chỉ thế thôi."
+    },
+    {
+        "start": 72.76,
+        "dur": 2.76,
+        "text": "I'm sure everyone will be better than me.",
+        "vietnamese": "Tôi chắc chắn mọi người sẽ giỏi hơn tôi."
+    },
+    {
+        "start": 75.52,
+        "dur": 2.2,
+        "text": "That's what I thought, too.",
+        "vietnamese": "Đó cũng là điều tôi nghĩ."
+    },
+    {
+        "start": 77.72,
+        "dur": 2.88,
+        "text": "When I first spoke to Gary on the phone,",
+        "vietnamese": "Lần đầu tiên tôi nói chuyện với Gary qua điện thoại,"
+    },
+    {
+        "start": 80.6,
+        "dur": 2.98,
+        "text": "he said it was a class for beginners,",
+        "vietnamese": "anh ấy nói đây là lớp dành cho người mới bắt đầu,"
+    },
+    {
+        "start": 83.58,
+        "dur": 3.82,
+        "text": "but I was still worried that everyone would be better than me,",
+        "vietnamese": "nhưng tôi vẫn lo lắng rằng mọi người sẽ giỏi hơn tôi,"
+    },
+    {
+        "start": 87.4,
+        "dur": 3.34,
+        "text": "but we were all equally hopeless!",
+        "vietnamese": "nhưng tất cả chúng tôi đều vô vọng như nhau!"
+    },
+    {
+        "start": 90.74,
+        "dur": 2.36,
+        "text": "Oh, that's reassuring.",
+        "vietnamese": "Ồ, thật yên tâm."
+    },
+    {
+        "start": 93.1,
+        "dur": 2.72,
+        "text": "So where do you meet?",
+        "vietnamese": "Vậy bạn gặp nhau ở đâu?"
+    },
+    {
+        "start": 95.82,
+        "dur": 4.72,
+        "text": "Well, when I joined the group, they were meeting in Gary's home,",
+        "vietnamese": "À, khi tôi tham gia nhóm, họ gặp nhau ở nhà Gary,"
+    },
+    {
+        "start": 100.54,
+        "dur": 6.04,
+        "text": "but as the group got bigger, he decided to book a room at the college in town.",
+        "vietnamese": "nhưng khi nhóm đông hơn, anh quyết định đặt phòng tại trường đại học trong thị trấn."
+    },
+    {
+        "start": 106.58,
+        "dur": 2.2,
+        "text": "I prefer going there.",
+        "vietnamese": "Tôi thích đến đó hơn."
+    },
+    {
+        "start": 108.78,
+        "dur": 2.08,
+        "text": "I know that place.",
+        "vietnamese": "Tôi biết nơi đó."
+    },
+    {
+        "start": 110.86,
+        "dur": 5.6,
+        "text": "I used to go to tap dancing classes there when I was at secondary school.",
+        "vietnamese": "Tôi từng đến lớp học nhảy tapdance ở đó khi còn học cấp hai."
+    },
+    {
+        "start": 116.46,
+        "dur": 6.1,
+        "text": "I haven't been since, though and I can't remember what road it's in...",
+        "vietnamese": "Tuy nhiên, tôi đã không đến đó kể từ đó và tôi không thể nhớ nó nằm trên con đường nào..."
+    },
+    {
+        "start": 122.56,
+        "dur": 2.66,
+        "text": "Is it Lock Street?",
+        "vietnamese": "Đó có phải là phố Lock không?"
+    },
+    {
+        "start": 125.22,
+        "dur": 6.8,
+        "text": "It's just beyond there at the bottom of New Street near the city roundabout.",
+        "vietnamese": "Nó nằm ngay cuối Phố Mới, gần bùng binh thành phố."
+    },
+    {
+        "start": 132.02,
+        "dur": 2.16,
+        "text": "Yes, of course.",
+        "vietnamese": "Vâng tất nhiên."
+    },
+    {
+        "start": 134.18,
+        "dur": 6.76,
+        "text": "The guitar club is on the first floor in Room T347.",
+        "vietnamese": "Câu lạc bộ guitar ở tầng 1 phòng T347."
+    },
+    {
+        "start": 140.94,
+        "dur": 1.46,
+        "text": "Right.",
+        "vietnamese": "Phải."
+    },
+    {
+        "start": 142.4,
+        "dur": 2.74,
+        "text": "And when do you meet?",
+        "vietnamese": "Và khi nào bạn gặp nhau?"
+    },
+    {
+        "start": 145.14,
+        "dur": 2.0,
+        "text": "Is it at the weekend?",
+        "vietnamese": "Có phải vào cuối tuần?"
+    },
+    {
+        "start": 147.14,
+        "dur": 2.46,
+        "text": "We meet on Thursdays.",
+        "vietnamese": "Chúng tôi gặp nhau vào thứ Năm."
+    },
+    {
+        "start": 149.6,
+        "dur": 4.8,
+        "text": "It used to be 10.30 and that suited me well,",
+        "vietnamese": "Trước đây là 10h30 và điều đó rất hợp với tôi,"
+    },
+    {
+        "start": 154.4,
+        "dur": 3.46,
+        "text": "but now we meet at 11.",
+        "vietnamese": "nhưng bây giờ chúng ta gặp nhau lúc 11 giờ."
+    },
+    {
+        "start": 158.06,
+        "dur": 6.1,
+        "text": "The class that's in there before us asked if they could have the room for another 30 minutes.",
+        "vietnamese": "Lớp học trước chúng tôi hỏi liệu họ có thể có phòng thêm 30 phút nữa không."
+    },
+    {
+        "start": 164.16,
+        "dur": 1.88,
+        "text": "Oh, I see.",
+        "vietnamese": "Ồ, tôi hiểu rồi."
+    },
+    {
+        "start": 166.34,
+        "dur": 5.34,
+        "text": "Well, I'd love to come, but I don't have a guitar.",
+        "vietnamese": "Ồ, tôi rất muốn đến, nhưng tôi không có đàn ghi-ta."
+    },
+    {
+        "start": 171.68,
+        "dur": 3.82,
+        "text": "Well, you can always buy a second-hand one.",
+        "vietnamese": "Chà, bạn luôn có thể mua đồ cũ."
+    },
+    {
+        "start": 175.5,
+        "dur": 8.58,
+        "text": "There's a website called 'The perfect instrument' that sells all kinds of guitars, violins and so on.",
+        "vietnamese": "Có một trang web tên là 'Nhạc cụ hoàn hảo' bán tất cả các loại guitar, violin, v.v."
+    },
+    {
+        "start": 184.08,
+        "dur": 2.84,
+        "text": "I'm sure you'll find something there.",
+        "vietnamese": "Tôi chắc chắn bạn sẽ tìm thấy một cái gì đó ở đó."
+    },
+    {
+        "start": 187.48,
+        "dur": 4.62,
+        "text": "So what's a typical lesson like with Gary?",
+        "vietnamese": "Vậy một bài học điển hình với Gary là gì?"
+    },
+    {
+        "start": 192.1,
+        "dur": 5.44,
+        "text": "Well, he always starts by getting us to tune our guitars.",
+        "vietnamese": "Chà, anh ấy luôn bắt đầu bằng việc yêu cầu chúng tôi điều chỉnh guitar của mình."
+    },
+    {
+        "start": 197.54,
+        "dur": 2.6,
+        "text": "That takes about five minutes.",
+        "vietnamese": "Việc đó mất khoảng năm phút."
+    },
+    {
+        "start": 200.14,
+        "dur": 1.08,
+        "text": "Uhuh...",
+        "vietnamese": "Ừm..."
+    },
+    {
+        "start": 201.22,
+        "dur": 5.64,
+        "text": "Some people have an app they use, but others do it by ear.",
+        "vietnamese": "Một số người có ứng dụng họ sử dụng nhưng những người khác lại sử dụng bằng tai."
+    },
+    {
+        "start": 207.1,
+        "dur": 2.7,
+        "text": "Gary goes round and helps them.",
+        "vietnamese": "Gary đi vòng quanh và giúp đỡ họ."
+    },
+    {
+        "start": 209.8,
+        "dur": 6.0,
+        "text": "And while he's doing that, he tells us what he's going to do during the lesson.",
+        "vietnamese": "Và trong khi làm điều đó, anh ấy cho chúng tôi biết anh ấy sẽ làm gì trong giờ học."
+    },
+    {
+        "start": 215.8,
+        "dur": 1.52,
+        "text": "Right.",
+        "vietnamese": "Phải."
+    },
+    {
+        "start": 217.32,
+        "dur": 6.08,
+        "text": "First, we usually spend about ten minutes doing some strumming.",
+        "vietnamese": "Đầu tiên, chúng tôi thường dành khoảng mười phút để chơi đàn."
+    },
+    {
+        "start": 223.4,
+        "dur": 2.84,
+        "text": "So is that using...",
+        "vietnamese": "Vậy việc sử dụng đó có phải là..."
+    },
+    {
+        "start": 226.24,
+        "dur": 2.94,
+        "text": "Oh... what are they called...",
+        "vietnamese": "Ồ... chúng được gọi là gì nhỉ..."
+    },
+    {
+        "start": 229.18,
+        "dur": 2.08,
+        "text": "Plectrums?",
+        "vietnamese": "Miếng gảy?"
+    },
+    {
+        "start": 231.26,
+        "dur": 3.2,
+        "text": "No, we just use our thumbs.",
+        "vietnamese": "Không, chúng tôi chỉ sử dụng ngón tay cái của mình."
+    },
+    {
+        "start": 234.46,
+        "dur": 2.0,
+        "text": "Oh... much easier.",
+        "vietnamese": "Ồ... dễ dàng hơn nhiều."
+    },
+    {
+        "start": 236.46,
+        "dur": 6.7,
+        "text": "Gary reminds us where to put our fingers for each chord and then we play them together.",
+        "vietnamese": "Gary nhắc chúng tôi đặt ngón tay ở đâu cho mỗi hợp âm và sau đó chúng tôi chơi chúng cùng nhau."
+    },
+    {
+        "start": 243.44,
+        "dur": 6.22,
+        "text": "Sometimes we all just start laughing because we're so bad at keeping time,",
+        "vietnamese": "Đôi khi tất cả chúng ta đều bật cười vì chúng ta quá tệ trong việc giữ thời gian,"
+    },
+    {
+        "start": 249.66,
+        "dur": 3.86,
+        "text": "so Gary starts clapping to help us.",
+        "vietnamese": "nên Gary bắt đầu vỗ tay để giúp chúng tôi."
+    },
+    {
+        "start": 253.52,
+        "dur": 2.86,
+        "text": "Do you learn to play any songs?",
+        "vietnamese": "Bạn có học chơi bài hát nào không?"
+    },
+    {
+        "start": 256.38,
+        "dur": 5.54,
+        "text": "Yes, we do at least one song with words and chords.",
+        "vietnamese": "Có, chúng tôi sáng tác ít nhất một bài hát có lời và hợp âm."
+    },
+    {
+        "start": 261.92,
+        "dur": 2.98,
+        "text": "I mean that's harder than you think.",
+        "vietnamese": "Ý tôi là việc đó khó hơn bạn nghĩ."
+    },
+    {
+        "start": 264.9,
+        "dur": 2.38,
+        "text": "Oh, I'm sure it is!",
+        "vietnamese": "Ồ, tôi chắc chắn là như vậy!"
+    },
+    {
+        "start": 267.28,
+        "dur": 4.42,
+        "text": "That part of the lesson takes about 15 minutes.",
+        "vietnamese": "Phần đó của bài học mất khoảng 15 phút."
+    },
+    {
+        "start": 271.98,
+        "dur": 5.84,
+        "text": "He often brings a recording of the song and plays it to us first.",
+        "vietnamese": "Anh ấy thường mang bản thu âm của bài hát đến cho chúng tôi nghe trước."
+    },
+    {
+        "start": 278.04,
+        "dur": 4.94,
+        "text": "Then he hands out the song and if there's a new chord in it,",
+        "vietnamese": "Sau đó anh ấy phát bài hát và nếu có hợp âm mới trong đó,"
+    },
+    {
+        "start": 282.98,
+        "dur": 5.74,
+        "text": "we practise that before we play it together, but really slowly.",
+        "vietnamese": "chúng tôi luyện tập điều đó trước khi chơi cùng nhau, nhưng rất chậm."
+    },
+    {
+        "start": 289.0,
+        "dur": 2.86,
+        "text": "Do you do any finger picking?",
+        "vietnamese": "Bạn có hay ngoáy ngón tay không?"
+    },
+    {
+        "start": 291.86,
+        "dur": 3.34,
+        "text": "That's the last ten minutes of the lesson,",
+        "vietnamese": "Đó là mười phút cuối cùng của bài học,"
+    },
+    {
+        "start": 295.2,
+        "dur": 4.84,
+        "text": "when we pick out the individual notes from a tune he's made up.",
+        "vietnamese": "khi chúng tôi chọn ra từng nốt nhạc từ một giai điệu mà anh ấy sáng tác."
+    },
+    {
+        "start": 300.04,
+        "dur": 2.26,
+        "text": "It's always quite simple.",
+        "vietnamese": "Nó luôn luôn khá đơn giản."
+    },
+    {
+        "start": 302.3,
+        "dur": 2.16,
+        "text": "That must be hard, though.",
+        "vietnamese": "Tuy nhiên điều đó hẳn là khó khăn."
+    },
+    {
+        "start": 305.04,
+        "dur": 0.96,
+        "text": "It is.",
+        "vietnamese": "Đúng vậy."
+    },
+    {
+        "start": 306.24,
+        "dur": 4.18,
+        "text": "But people like it because they can really concentrate",
+        "vietnamese": "Nhưng mọi người thích nó vì họ thực sự có thể tập trung"
+    },
+    {
+        "start": 310.42,
+        "dur": 4.98,
+        "text": "and if we're all playing well, it sounds quite impressive.",
+        "vietnamese": "và nếu tất cả chúng tôi đều chơi tốt thì điều đó nghe có vẻ khá ấn tượng."
+    },
+    {
+        "start": 315.68,
+        "dur": 7.94,
+        "text": "The only trouble is that he sometimes gets us to play one at a time, you know, alone.",
+        "vietnamese": "Rắc rối duy nhất là đôi khi anh ấy bắt chúng tôi chơi từng trò một, bạn biết đấy, một mình."
+    },
+    {
+        "start": 323.62,
+        "dur": 2.06,
+        "text": "Oh... that's scary.",
+        "vietnamese": "Ôi... thật đáng sợ."
+    },
+    {
+        "start": 325.68,
+        "dur": 4.38,
+        "text": "Um... it is, but I've got used to it now.",
+        "vietnamese": "Ừm... đúng vậy, nhưng giờ tôi đã quen rồi."
+    },
+    {
+        "start": 330.5,
+        "dur": 6.48,
+        "text": "At the end he spends about five minutes telling us what to practise for the following week.",
+        "vietnamese": "Cuối cùng, anh dành khoảng năm phút để hướng dẫn chúng tôi những gì cần thực hành trong tuần tiếp theo."
+    },
+    {
+        "start": 336.98,
+        "dur": 2.72,
+        "text": "Well, thanks Coleman.",
+        "vietnamese": "Vâng, cảm ơn Coleman."
+    },
+    {
+        "start": 339.7,
+        "dur": 3.7,
+        "text": "I'll go and have a look at that website, I think.",
+        "vietnamese": "Tôi nghĩ tôi sẽ đi xem trang web đó."
+    }
+]
