@@ -1,0 +1,399 @@
+{
+  "format": "text",
+  "words": [
+    {
+      "word": "farmer",
+      "uses": [
+        43, 49, 98, 106, 345, 351, 398, 404, 1050, 1056, 1350, 1358, 1670, 1678,
+        1781, 1789, 2179, 2187
+      ],
+      "def": "a person who works growing crops or raising animals",
+      "diff": 310,
+      "freq": 20.76974,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 8.939627001879867
+    },
+    {
+      "word": "cow",
+      "uses": [1389, 1392, 1449, 1452, 1473, 1476, 2065, 2068],
+      "def": "female of domestic cattle",
+      "diff": 470,
+      "freq": 23.447392,
+      "ldc": 2,
+      "lgc": 2,
+      "rel": 7.601969503975268
+    },
+    {
+      "word": "plow",
+      "uses": [1585, 1589],
+      "def": "a farm tool for breaking up or turning over soil",
+      "diff": 440,
+      "freq": 5.282203,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.012943931819419
+    },
+    {
+      "word": "farming",
+      "uses": [248, 255],
+      "def": "the practice of cultivating the land or raising stock",
+      "diff": 400,
+      "freq": 5.379332,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 6.994722999666078
+    },
+    {
+      "word": "pretext",
+      "uses": [988, 995],
+      "def": "a fictitious reason that conceals the real reason",
+      "diff": 580,
+      "freq": 5.799661,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 6.919487719680988
+    },
+    {
+      "word": "herd",
+      "uses": [1393, 1397, 1415, 1419],
+      "def": "a group of cattle or sheep or other domestic mammals",
+      "diff": 380,
+      "freq": 16.481503,
+      "ldc": 6,
+      "lgc": 1,
+      "rel": 6.914769292151757
+    },
+    {
+      "word": "collide",
+      "uses": [1794, 1802],
+      "def": "crash together with violent impact",
+      "diff": 380,
+      "freq": 6.5435286,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.798810660098463
+    },
+    {
+      "word": "honesty",
+      "uses": [630, 637],
+      "def": "the quality of being truthful and having integrity",
+      "diff": 340,
+      "freq": 8.3812,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 6.551296131901166
+    },
+    {
+      "word": "calf",
+      "uses": [1423, 1429],
+      "def": "young of domestic cattle",
+      "diff": 360,
+      "freq": 8.68037,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 6.516223022151527
+    },
+    {
+      "word": "shatter",
+      "uses": [2345, 2354],
+      "def": "break into many pieces",
+      "diff": 310,
+      "freq": 9.617481,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.413704810586156
+    },
+    {
+      "word": "dream",
+      "uses": [324, 332, 649, 654, 1688, 1696, 2333, 2339],
+      "def": "a series of images and emotions occurring during sleep",
+      "diff": 290,
+      "freq": 112.0089,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 6.038150392731707
+    },
+    {
+      "word": "lost",
+      "uses": [2019, 2023, 2040, 2044, 2056, 2060, 2071, 2075, 2096, 2100],
+      "def": "confused as to time or place or personal identity",
+      "diff": 330,
+      "freq": 164.74193,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 5.987063906059523
+    },
+    {
+      "word": "ruined",
+      "uses": [2002, 2008],
+      "def": "destroyed physically or morally",
+      "diff": 330,
+      "freq": 14.856704,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 5.978836019838146
+    },
+    {
+      "word": "earn",
+      "uses": [582, 589, 732, 736],
+      "def": "acquire or deserve by one's efforts or actions",
+      "diff": 360,
+      "freq": 43.16597,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.951955535755033
+    },
+    {
+      "word": "unfortunately",
+      "uses": [1711, 1724],
+      "def": "by bad luck",
+      "diff": 350,
+      "freq": 16.270323,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.887944453542286
+    },
+    {
+      "word": "injured",
+      "uses": [2269, 2276],
+      "def": "harmed",
+      "diff": 280,
+      "freq": 18.64745,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.7515778344013935
+    },
+    {
+      "word": "elder",
+      "uses": [107, 112],
+      "def": "a person of more advanced age",
+      "diff": 370,
+      "freq": 25.968689,
+      "ldc": 2,
+      "lgc": 2,
+      "rel": 5.420395673031559
+    },
+    {
+      "word": "crop",
+      "uses": [1617, 1622],
+      "def": "a cultivated plant that is grown commercially",
+      "diff": 430,
+      "freq": 26.379204,
+      "ldc": 6,
+      "lgc": 4,
+      "rel": 5.40471125001291
+    },
+    {
+      "word": "separate",
+      "uses": [781, 791, 826, 836],
+      "def": "standing apart; not attached to or supported by anything",
+      "diff": 330,
+      "freq": 81.43656,
+      "ldc": 9,
+      "lgc": 2,
+      "rel": 5.317183653912549
+    },
+    {
+      "word": "idle",
+      "uses": [274, 278],
+      "def": "not in action or at work",
+      "diff": 550,
+      "freq": 29.99735,
+      "ldc": 8,
+      "lgc": 3,
+      "rel": 5.276178147232715
+    },
+    {
+      "word": "household",
+      "uses": [211, 220],
+      "def": "a social unit living together in a residence",
+      "diff": 300,
+      "freq": 30.175026,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.270272588120278
+    },
+    {
+      "word": "curse",
+      "uses": [1963, 1970],
+      "def": "an appeal to some supernatural power to inflict evil",
+      "diff": 400,
+      "freq": 30.206837,
+      "ldc": 6,
+      "lgc": 2,
+      "rel": 5.269218935183783
+    },
+    {
+      "word": "absolutely",
+      "uses": [544, 554],
+      "def": "totally and definitely; without question",
+      "diff": 360,
+      "freq": 35.679237,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.10271828154929
+    },
+    {
+      "word": "becoming",
+      "uses": [658, 666],
+      "def": "displaying or setting off to best advantage",
+      "diff": 610,
+      "freq": 35.958103,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.094932754596694
+    },
+    {
+      "word": "trade",
+      "uses": [388, 393, 477, 482],
+      "def": "the commercial exchange of goods and services",
+      "diff": 350,
+      "freq": 106.978485,
+      "ldc": 9,
+      "lgc": 3,
+      "rel": 5.044380245112055
+    },
+    {
+      "word": "pair",
+      "uses": [1569, 1573],
+      "def": "a set of two similar things considered as a unit",
+      "diff": 300,
+      "freq": 47.26164,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 4.8215882706937325
+    },
+    {
+      "word": "sorrow",
+      "uses": [514, 520],
+      "def": "an emotion of great sadness associated with loss",
+      "diff": 400,
+      "freq": 49.64452,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 4.772399206871804
+    },
+    {
+      "word": "angry",
+      "uses": [2161, 2166],
+      "def": "feeling or showing extreme displeasure or hostility",
+      "diff": 290,
+      "freq": 51.249012,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 4.7405908750983015
+    },
+    {
+      "word": "village",
+      "uses": [61, 68],
+      "def": "a settlement smaller than a town",
+      "diff": 290,
+      "freq": 53.45286,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 4.6984870373521455
+    },
+    {
+      "word": "honest",
+      "uses": [126, 132],
+      "def": "marked by truth",
+      "diff": 360,
+      "freq": 53.53544,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 4.696943377571461
+    },
+    {
+      "word": "local",
+      "uses": [1867, 1872],
+      "def": "of or belonging to or characteristic of a particular area",
+      "diff": 380,
+      "freq": 70.73543,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 4.41834066613765
+    },
+    {
+      "word": "sharp",
+      "uses": [2206, 2211],
+      "def": "having a point or thin edge suitable for cutting or piercing",
+      "diff": 410,
+      "freq": 77.95988,
+      "ldc": 7,
+      "lgc": 5,
+      "rel": 4.321092917666013
+    },
+    {
+      "word": "market",
+      "uses": [1167, 1173],
+      "def": "a store where groceries are sold",
+      "diff": 440,
+      "freq": 96.79719,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 4.10466927249249
+    },
+    {
+      "word": "surprise",
+      "uses": [1367, 1376],
+      "def": "come upon or take unawares",
+      "diff": 320,
+      "freq": 119.458405,
+      "ldc": 6,
+      "lgc": 1,
+      "rel": 3.8943189831303178
+    },
+    {
+      "word": "faith",
+      "uses": [558, 563],
+      "def": "complete confidence in a person or plan, etc.",
+      "diff": 320,
+      "freq": 136.84622,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 3.7584293870734387
+    },
+    {
+      "word": "agree",
+      "uses": [1266, 1272],
+      "def": "consent or assent to a condition",
+      "diff": 380,
+      "freq": 159.82828,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 3.603187240956839
+    },
+    {
+      "word": "different",
+      "uses": [748, 757],
+      "def": "unlike in nature, quality, form, or degree",
+      "diff": 320,
+      "freq": 257.10297,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 3.127810562980846
+    },
+    {
+      "word": "thought",
+      "uses": [967, 974],
+      "def": "the content of cognition",
+      "diff": 380,
+      "freq": 522.5878,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 2.4184941501322
+    },
+    {
+      "word": "through",
+      "uses": [608, 615],
+      "def": "having finished or arrived at completion",
+      "diff": 470,
+      "freq": 570.1575,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 2.331374627687529
+    }
+  ],
+  "sentences": [[0, 2354]]
+}

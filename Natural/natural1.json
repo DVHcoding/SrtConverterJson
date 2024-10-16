@@ -1,0 +1,676 @@
+{
+  "format": "text",
+  "words": [
+    {
+      "word": "applique",
+      "uses": [1069, 1077],
+      "def": "a decorative design made of one material sewn over another",
+      "diff": 620,
+      "freq": 0.04298051,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 11.427163992807206
+    },
+    {
+      "word": "amazon",
+      "uses": [1993, 1999],
+      "def": "a large, strong, and aggressive woman",
+      "diff": 590,
+      "freq": 0.06802427,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 10.968046210447165
+    },
+    {
+      "word": "inflatable",
+      "uses": [2266, 2276, 2523, 2533],
+      "def": "designed or able to be filled with air or gas",
+      "diff": 350,
+      "freq": 0.19831951,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 10.937752122945776
+    },
+    {
+      "word": "cutlery",
+      "uses": [3383, 3390],
+      "def": "tableware implements for eating food",
+      "diff": 430,
+      "freq": 0.3858093,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 9.232567555212045
+    },
+    {
+      "word": "insulation",
+      "uses": [784, 794],
+      "def": "reduction of the transmission of sound, heat, or electricity",
+      "diff": 500,
+      "freq": 0.614249,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 8.767510398419942
+    },
+    {
+      "word": "lightweight",
+      "uses": [2971, 2982],
+      "def": "weighing relatively little compared with another item",
+      "diff": 400,
+      "freq": 0.7195005,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 8.609353570835374
+    },
+    {
+      "word": "handy",
+      "uses": [1458, 1463, 2346, 2351, 2787, 2792],
+      "def": "skillful at making things or doing manual tasks",
+      "diff": 390,
+      "freq": 3.812405,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 8.589813668919208
+    },
+    {
+      "word": "affordable",
+      "uses": [2960, 2970],
+      "def": "reasonably priced",
+      "diff": 340,
+      "freq": 1.3056599,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 8.013446912265106
+    },
+    {
+      "word": "rubbish",
+      "uses": [1667, 1674, 3480, 3487],
+      "def": "worthless material that is to be disposed of",
+      "diff": 390,
+      "freq": 4.891656,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 7.732345378538629
+    },
+    {
+      "word": "trek",
+      "uses": [2895, 2903],
+      "def": "any long and difficult trip",
+      "diff": 460,
+      "freq": 1.7418952,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.7251817729950405
+    },
+    {
+      "word": "container",
+      "uses": [906, 915],
+      "def": "any object that can be used to hold things",
+      "diff": 350,
+      "freq": 2.2948885,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 7.449471231319466
+    },
+    {
+      "word": "foil",
+      "uses": [795, 799],
+      "def": "hinder or prevent, as an effort, plan, or desire",
+      "diff": 510,
+      "freq": 3.872307,
+      "ldc": 4,
+      "lgc": 4,
+      "rel": 6.926305018693604
+    },
+    {
+      "word": "forum",
+      "uses": [1161, 1165],
+      "def": "a public facility to meet for open discussion",
+      "diff": 510,
+      "freq": 5.0757613,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.65567896108785
+    },
+    {
+      "word": "elastic",
+      "uses": [2761, 2768],
+      "def": "capable of resuming shape after stretching or compression",
+      "diff": 390,
+      "freq": 5.1931963,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 6.632806123808026
+    },
+    {
+      "word": "kettle",
+      "uses": [1115, 1121],
+      "def": "a metal pot with a lid for stewing or boiling",
+      "diff": 380,
+      "freq": 6.8697743,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 6.3530242294409
+    },
+    {
+      "word": "tip",
+      "uses": [1464, 1467, 2352, 2355],
+      "def": "the extreme end of something, especially something pointed",
+      "diff": 430,
+      "freq": 20.311844,
+      "ldc": 6,
+      "lgc": 3,
+      "rel": 6.308672101158936
+    },
+    {
+      "word": "scar",
+      "uses": [270, 274],
+      "def": "a mark left by the healing of injured tissue",
+      "diff": 300,
+      "freq": 7.2214026,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.303106281992182
+    },
+    {
+      "word": "gear",
+      "uses": [417, 421],
+      "def": "a toothed wheel that engages another toothed mechanism",
+      "diff": 420,
+      "freq": 7.788948,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 6.227449674785332
+    },
+    {
+      "word": "insight",
+      "uses": [370, 377],
+      "def": "clear or deep perception of a situation",
+      "diff": 460,
+      "freq": 8.22383,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 6.1731194237851685
+    },
+    {
+      "word": "camp",
+      "uses": [95, 102, 193, 199, 477, 481, 1495, 1502, 1907, 1914],
+      "def": "temporary lodgings in the country for travelers",
+      "diff": 430,
+      "freq": 92.162056,
+      "ldc": 5,
+      "lgc": 2,
+      "rel": 6.170763851462985
+    },
+    {
+      "word": "relatively",
+      "uses": [1207, 1217],
+      "def": "by comparison to something else",
+      "diff": 440,
+      "freq": 10.281141,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.949844214774795
+    },
+    {
+      "word": "bother",
+      "uses": [1101, 1107],
+      "def": "disturb, especially by minor irritations",
+      "diff": 380,
+      "freq": 13.640389,
+      "ldc": 7,
+      "lgc": 1,
+      "rel": 5.667120284698026
+    },
+    {
+      "word": "pole",
+      "uses": [2904, 2909],
+      "def": "a long rod of wood, metal, or plastic",
+      "diff": 440,
+      "freq": 14.817784,
+      "ldc": 5,
+      "lgc": 2,
+      "rel": 5.584327386302872
+    },
+    {
+      "word": "item",
+      "uses": [1865, 1870],
+      "def": "a distinct part that can be specified separately in a group",
+      "diff": 470,
+      "freq": 15.328813,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 5.550421254342761
+    },
+    {
+      "word": "traditional",
+      "uses": [2929, 2940],
+      "def": "consisting of or derived from a practice of long standing",
+      "diff": 380,
+      "freq": 16.429384,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.48108403515551
+    },
+    {
+      "word": "impressed",
+      "uses": [1350, 1359],
+      "def": "deeply or markedly affected or influenced",
+      "diff": 440,
+      "freq": 16.504517,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.476521411328166
+    },
+    {
+      "word": "equipment",
+      "uses": [230, 239],
+      "def": "an instrumentality needed for an undertaking",
+      "diff": 360,
+      "freq": 17.523525,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.41661121072006
+    },
+    {
+      "word": "temperature",
+      "uses": [2140, 2151],
+      "def": "the degree of hotness or coldness of a body or environment",
+      "diff": 270,
+      "freq": 18.337788,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.371191659613831
+    },
+    {
+      "word": "store",
+      "uses": [1562, 1569, 1594, 1601],
+      "def": "a mercantile establishment for the sale of goods or services",
+      "diff": 350,
+      "freq": 65.79436,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 5.133342179712534
+    },
+    {
+      "word": "weigh",
+      "uses": [840, 846],
+      "def": "have a certain heft",
+      "diff": 500,
+      "freq": 24.920235,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 5.064475376987135
+    },
+    {
+      "word": "cheap",
+      "uses": [3146, 3151],
+      "def": "relatively low in price or charging low prices",
+      "diff": 420,
+      "freq": 26.142979,
+      "ldc": 4,
+      "lgc": 4,
+      "rel": 5.016574835918393
+    },
+    {
+      "word": "sheet",
+      "uses": [3051, 3056],
+      "def": "any broad thin expanse or surface",
+      "diff": 380,
+      "freq": 26.247215,
+      "ldc": 4,
+      "lgc": 3,
+      "rel": 5.012595589708776
+    },
+    {
+      "word": "lot",
+      "uses": [163, 166, 859, 862],
+      "def": "anything (straws or pebbles etc.) taken or chosen at random",
+      "diff": 600,
+      "freq": 78.18324,
+      "ldc": 5,
+      "lgc": 5,
+      "rel": 4.960820920928337
+    },
+    {
+      "word": "sensible",
+      "uses": [546, 554],
+      "def": "able to feel or perceive",
+      "diff": 510,
+      "freq": 32.417118,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 4.801468869355097
+    },
+    {
+      "word": "boil",
+      "uses": [1143, 1147],
+      "def": "change from a liquid to vapor",
+      "diff": 350,
+      "freq": 37.51014,
+      "ldc": 6,
+      "lgc": 3,
+      "rel": 4.655544206033656
+    },
+    {
+      "word": "choice",
+      "uses": [448, 455],
+      "def": "the act of selecting",
+      "diff": 370,
+      "freq": 43.77311,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 4.501135799176941
+    },
+    {
+      "word": "empty",
+      "uses": [2421, 2426],
+      "def": "holding or containing nothing",
+      "diff": 370,
+      "freq": 45.013115,
+      "ldc": 8,
+      "lgc": 4,
+      "rel": 4.473201598024382
+    },
+    {
+      "word": "standard",
+      "uses": [2309, 2317],
+      "def": "a basis for comparison",
+      "diff": 470,
+      "freq": 46.055477,
+      "ldc": 5,
+      "lgc": 2,
+      "rel": 4.450308793545887
+    },
+    {
+      "word": "check",
+      "uses": [3595, 3600],
+      "def": "examine to determine accuracy or quality",
+      "diff": 400,
+      "freq": 47.200047,
+      "ldc": 12,
+      "lgc": 4,
+      "rel": 4.425760609611289
+    },
+    {
+      "word": "temple",
+      "uses": [2941, 2948],
+      "def": "a place of worship",
+      "diff": 420,
+      "freq": 47.65591,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 4.416148826091646
+    },
+    {
+      "word": "couple",
+      "uses": [1516, 1522],
+      "def": "two items of the same kind",
+      "diff": 270,
+      "freq": 51.499786,
+      "ldc": 6,
+      "lgc": 1,
+      "rel": 4.338577828563812
+    },
+    {
+      "word": "honest",
+      "uses": [2696, 2702],
+      "def": "marked by truth",
+      "diff": 360,
+      "freq": 53.53544,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 4.299811651022441
+    },
+    {
+      "word": "level",
+      "uses": [658, 663],
+      "def": "a relative position or degree of value in a graded group",
+      "diff": 490,
+      "freq": 61.927467,
+      "ldc": 10,
+      "lgc": 4,
+      "rel": 4.1541916695180765
+    },
+    {
+      "word": "comment",
+      "uses": [3999, 4007],
+      "def": "a statement that expresses a personal opinion",
+      "diff": 340,
+      "freq": 62.485878,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 4.145214909141686
+    },
+    {
+      "word": "style",
+      "uses": [4128, 4133],
+      "def": "how something is done or how it happens",
+      "diff": 440,
+      "freq": 63.619278,
+      "ldc": 8,
+      "lgc": 3,
+      "rel": 4.12723895130193
+    },
+    {
+      "word": "detail",
+      "uses": [2031, 2037],
+      "def": "a small part considered separately from the whole",
+      "diff": 420,
+      "freq": 63.953983,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 4.121991674287083
+    },
+    {
+      "word": "base",
+      "uses": [3106, 3110],
+      "def": "lowest support of a structure",
+      "diff": 480,
+      "freq": 69.337715,
+      "ldc": 13,
+      "lgc": 4,
+      "rel": 4.0411664999050005
+    },
+    {
+      "word": "problem",
+      "uses": [322, 329],
+      "def": "a question raised for consideration or solution",
+      "diff": 290,
+      "freq": 79.21646,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 3.9079713677780648
+    },
+    {
+      "word": "recent",
+      "uses": [1243, 1251],
+      "def": "of the immediate past or just previous to the present time",
+      "diff": 360,
+      "freq": 83.51451,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 3.85513508571743
+    },
+    {
+      "word": "enjoy",
+      "uses": [3655, 3662],
+      "def": "derive or receive pleasure from",
+      "diff": 370,
+      "freq": 89.48204,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 3.786117548922717
+    },
+    {
+      "word": "protect",
+      "uses": [3094, 3101],
+      "def": "shield from danger, injury, destruction, or damage",
+      "diff": 450,
+      "freq": 95.08812,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 3.7253514527785585
+    },
+    {
+      "word": "future",
+      "uses": [522, 528],
+      "def": "the time yet to come",
+      "diff": 350,
+      "freq": 100.92162,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 3.6658112802370426
+    },
+    {
+      "word": "system",
+      "uses": [2397, 2403],
+      "def": "a group of independent elements comprising a unified whole",
+      "diff": 350,
+      "freq": 126.19179,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 3.442352613751073
+    },
+    {
+      "word": "practice",
+      "uses": [608, 616],
+      "def": "a customary way of operation or behavior",
+      "diff": 420,
+      "freq": 128.7212,
+      "ldc": 7,
+      "lgc": 2,
+      "rel": 3.4225066112244273
+    },
+    {
+      "word": "particular",
+      "uses": [79, 89],
+      "def": "unique or specific to a person or thing or category",
+      "diff": 390,
+      "freq": 130.2455,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 3.410734367421819
+    },
+    {
+      "word": "forget",
+      "uses": [3437, 3443],
+      "def": "dismiss from the mind; stop remembering",
+      "diff": 260,
+      "freq": 140.62376,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 3.3340675043470114
+    },
+    {
+      "word": "arrive",
+      "uses": [564, 571],
+      "def": "reach a destination",
+      "diff": 330,
+      "freq": 142.29594,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 3.3222464851743467
+    },
+    {
+      "word": "provide",
+      "uses": [359, 366],
+      "def": "give something useful or necessary to",
+      "diff": 350,
+      "freq": 142.47295,
+      "ldc": 7,
+      "lgc": 3,
+      "rel": 3.3210033579796403
+    },
+    {
+      "word": "fair",
+      "uses": [572, 578],
+      "def": "free from favoritism, bias, or deception",
+      "diff": 490,
+      "freq": 154.58633,
+      "ldc": 7,
+      "lgc": 5,
+      "rel": 3.2394027503404397
+    },
+    {
+      "word": "spirit",
+      "uses": [940, 946],
+      "def": "the vital principle or animating force within living things",
+      "diff": 420,
+      "freq": 220.70052,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 2.88334883807524
+    },
+    {
+      "word": "fact",
+      "uses": [1628, 1632],
+      "def": "a piece of information about events that have occurred",
+      "diff": 330,
+      "freq": 239.92026,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 2.799848880205044
+    },
+    {
+      "word": "consider",
+      "uses": [3844, 3855],
+      "def": "think about carefully; weigh",
+      "diff": 480,
+      "freq": 259.99857,
+      "ldc": 8,
+      "lgc": 2,
+      "rel": 2.719479373843383
+    },
+    {
+      "word": "need",
+      "uses": [3396, 3401],
+      "def": "require or want",
+      "diff": 360,
+      "freq": 266.74146,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 2.69387563198237
+    },
+    {
+      "word": "interest",
+      "uses": [48, 56],
+      "def": "a sense of concern with and curiosity about something",
+      "diff": 410,
+      "freq": 270.0073,
+      "ldc": 5,
+      "lgc": 2,
+      "rel": 2.6817065158630164
+    },
+    {
+      "word": "act",
+      "uses": [3888, 3891],
+      "def": "behave in a certain manner",
+      "diff": 340,
+      "freq": 442.0718,
+      "ldc": 8,
+      "lgc": 3,
+      "rel": 2.188683158097545
+    },
+    {
+      "word": "mean",
+      "uses": [1654, 1659],
+      "def": "denote or connote",
+      "diff": 490,
+      "freq": 447.7293,
+      "ldc": 6,
+      "lgc": 5,
+      "rel": 2.1759666592035747
+    },
+    {
+      "word": "found",
+      "uses": [2998, 3003],
+      "def": "set up",
+      "diff": 510,
+      "freq": 500.14862,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 2.0652501927388593
+    }
+  ],
+  "sentences": [[0, 4188]]
+}

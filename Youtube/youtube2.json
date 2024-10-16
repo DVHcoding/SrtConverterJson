@@ -1,0 +1,508 @@
+{
+  "format": "text",
+  "words": [
+    {
+      "word": "pointy",
+      "uses": [994, 1000, 1131, 1137],
+      "def": "sharp at one end or tip",
+      "diff": 340,
+      "freq": 0.39079958,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 10.86580496806201
+    },
+    {
+      "word": "spooky",
+      "uses": [761, 767],
+      "def": "inspiring a feeling of fear; strange and frightening",
+      "diff": 280,
+      "freq": 0.39156258,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 9.824133695687921
+    },
+    {
+      "word": "spire",
+      "uses": [970, 976, 1117, 1123, 1156, 1162],
+      "def": "a tall tower that forms the superstructure of a building",
+      "diff": 550,
+      "freq": 4.309896,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 9.073528429718307
+    },
+    {
+      "word": "reconstruction",
+      "uses": [1178, 1192],
+      "def": "the activity of building something again",
+      "diff": 360,
+      "freq": 2.2390478,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 8.08047309791846
+    },
+    {
+      "word": "fairy tale",
+      "uses": [954, 964],
+      "def": "a children's story involving fantastical beings or elements",
+      "diff": 330,
+      "freq": 2.6932197,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 7.895786390654242
+    },
+    {
+      "word": "turret",
+      "uses": [981, 988],
+      "def": "a small tower extending above a building",
+      "diff": 520,
+      "freq": 3.105088,
+      "ldc": 2,
+      "lgc": 2,
+      "rel": 7.753481713889969
+    },
+    {
+      "word": "medieval",
+      "uses": [255, 263],
+      "def": "relating to or belonging to the Middle Ages",
+      "diff": 410,
+      "freq": 3.2113547,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 7.719830885657733
+    },
+    {
+      "word": "nestle",
+      "uses": [328, 335],
+      "def": "move or arrange oneself in a comfortable and cozy position",
+      "diff": 460,
+      "freq": 4.1389894,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.466072105331305
+    },
+    {
+      "word": "scaffold",
+      "uses": [1277, 1288],
+      "def": "a temporary arrangement erected around a building",
+      "diff": 530,
+      "freq": 4.4489903,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.393846587147598
+    },
+    {
+      "word": "mystical",
+      "uses": [744, 752],
+      "def": "beyond ordinary understanding",
+      "diff": 410,
+      "freq": 5.2778034,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.223013776406579
+    },
+    {
+      "word": "loneliness",
+      "uses": [1439, 1449],
+      "def": "sadness resulting from being forsaken or abandoned",
+      "diff": 340,
+      "freq": 5.936725,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 7.105366110775491
+    },
+    {
+      "word": "expanded",
+      "uses": [588, 596],
+      "def": "increased in extent or size or bulk or scope",
+      "diff": 350,
+      "freq": 6.7932897,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 6.9705884583576525
+    },
+    {
+      "word": "maintenance",
+      "uses": [1196, 1207],
+      "def": "activity involved in keeping something in good working order",
+      "diff": 470,
+      "freq": 7.6444387,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 6.852545346967163
+    },
+    {
+      "word": "tourist",
+      "uses": [1546, 1553],
+      "def": "someone who travels for pleasure",
+      "diff": 310,
+      "freq": 9.091562,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 6.679177008387183
+    },
+    {
+      "word": "definitely",
+      "uses": [715, 725],
+      "def": "without question and beyond doubt",
+      "diff": 430,
+      "freq": 10.480137,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 6.53704202976905
+    },
+    {
+      "word": "banner",
+      "uses": [1041, 1048],
+      "def": "long strip of cloth or paper for decoration or advertising",
+      "diff": 420,
+      "freq": 11.351593,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 6.457165680768471
+    },
+    {
+      "word": "background",
+      "uses": [800, 810],
+      "def": "the part of a scene behind objects in the front",
+      "diff": 430,
+      "freq": 15.540331,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 6.14308513151651
+    },
+    {
+      "word": "peak",
+      "uses": [1352, 1359],
+      "def": "a V shape",
+      "diff": 430,
+      "freq": 17.4731,
+      "ldc": 6,
+      "lgc": 1,
+      "rel": 6.025861175462584
+    },
+    {
+      "word": "century",
+      "uses": [576, 583, 604, 613, 1787, 1794],
+      "def": "a period of 100 years",
+      "diff": 270,
+      "freq": 99.593285,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.933347463128678
+    },
+    {
+      "word": "federal",
+      "uses": [388, 395],
+      "def": "of a government with central and regional authorities",
+      "diff": 380,
+      "freq": 26.074955,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 5.625548494239434
+    },
+    {
+      "word": "hint",
+      "uses": [861, 866],
+      "def": "an indirect suggestion",
+      "diff": 390,
+      "freq": 26.879402,
+      "ldc": 6,
+      "lgc": 2,
+      "rel": 5.595163494458664
+    },
+    {
+      "word": "metal",
+      "uses": [1111, 1116],
+      "def": "a chemical element or alloy that is usually a shiny solid",
+      "diff": 270,
+      "freq": 27.526478,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.571375397779554
+    },
+    {
+      "word": "locate",
+      "uses": [434, 441],
+      "def": "determine the place of by searching or examining",
+      "diff": 310,
+      "freq": 28.04529,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 5.552703065627226
+    },
+    {
+      "word": "surrounded",
+      "uses": [684, 694],
+      "def": "confined on all sides",
+      "diff": 350,
+      "freq": 29.742851,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.49393495957384
+    },
+    {
+      "word": "communication",
+      "uses": [2085, 2098],
+      "def": "the activity of conveying information",
+      "diff": 320,
+      "freq": 32.25535,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 5.4128399034947705
+    },
+    {
+      "word": "remember",
+      "uses": [1511, 1519, 1864, 1872, 2075, 2083],
+      "def": "recall knowledge; have a recollection",
+      "diff": 280,
+      "freq": 169.70634,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 5.400372643099421
+    },
+    {
+      "word": "flag",
+      "uses": [1032, 1037],
+      "def": "a rectangular piece of cloth of distinctive design",
+      "diff": 520,
+      "freq": 33.511936,
+      "ldc": 3,
+      "lgc": 2,
+      "rel": 5.374622089337277
+    },
+    {
+      "word": "entrance",
+      "uses": [186, 194],
+      "def": "something that provides access to get in",
+      "diff": 430,
+      "freq": 35.253834,
+      "ldc": 5,
+      "lgc": 3,
+      "rel": 5.3239494860204735
+    },
+    {
+      "word": "description",
+      "uses": [2027, 2039],
+      "def": "the act of depicting something",
+      "diff": 440,
+      "freq": 39.058117,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.221473054649136
+    },
+    {
+      "word": "generation",
+      "uses": [1809, 1820],
+      "def": "group of genetically related organisms in a line of descent",
+      "diff": 460,
+      "freq": 40.5137,
+      "ldc": 6,
+      "lgc": 2,
+      "rel": 5.184883615404514
+    },
+    {
+      "word": "tower",
+      "uses": [1346, 1351],
+      "def": "a structure taller than its diameter",
+      "diff": 370,
+      "freq": 43.06613,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 5.123786890554699
+    },
+    {
+      "word": "check",
+      "uses": [2041, 2046],
+      "def": "examine to determine accuracy or quality",
+      "diff": 400,
+      "freq": 47.200047,
+      "ldc": 12,
+      "lgc": 4,
+      "rel": 5.032128890225543
+    },
+    {
+      "word": "image",
+      "uses": [1468, 1473],
+      "def": "a visual representation produced on a surface",
+      "diff": 390,
+      "freq": 49.871265,
+      "ldc": 6,
+      "lgc": 2,
+      "rel": 4.977078775382255
+    },
+    {
+      "word": "right",
+      "uses": [173, 178, 215, 220, 1235, 1240, 1392, 1397],
+      "def": "free from error; especially conforming to fact or truth",
+      "diff": 470,
+      "freq": 473.8019,
+      "ldc": 15,
+      "lgc": 4,
+      "rel": 4.805175986700235
+    },
+    {
+      "word": "branch",
+      "uses": [1732, 1738],
+      "def": "a division of a stem arising from the main stem of a plant",
+      "diff": 470,
+      "freq": 60.50945,
+      "ldc": 7,
+      "lgc": 1,
+      "rel": 4.78372423407423
+    },
+    {
+      "word": "forest",
+      "uses": [1412, 1419],
+      "def": "a large, densely wooded area filled with trees and plants",
+      "diff": 250,
+      "freq": 68.337654,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 4.662062849414307
+    },
+    {
+      "word": "gentle",
+      "uses": [520, 526],
+      "def": "soft and mild; not harsh or stern or severe",
+      "diff": 360,
+      "freq": 77.48506,
+      "ldc": 7,
+      "lgc": 3,
+      "rel": 4.5364386039999545
+    },
+    {
+      "word": "crowd",
+      "uses": [1554, 1560],
+      "def": "a large number of things or people considered together",
+      "diff": 350,
+      "freq": 92.774956,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 4.35634703883793
+    },
+    {
+      "word": "dream",
+      "uses": [1501, 1506],
+      "def": "a series of images and emotions occurring during sleep",
+      "diff": 290,
+      "freq": 112.0089,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 4.167945405117105
+    },
+    {
+      "word": "front",
+      "uses": [274, 279],
+      "def": "the side that is forward or prominent",
+      "diff": 460,
+      "freq": 117.436966,
+      "ldc": 5,
+      "lgc": 2,
+      "rel": 4.120622039245624
+    },
+    {
+      "word": "raise",
+      "uses": [147, 153],
+      "def": "move upwards",
+      "diff": 420,
+      "freq": 141.37338,
+      "ldc": 16,
+      "lgc": 4,
+      "rel": 3.935119275166931
+    },
+    {
+      "word": "wonder",
+      "uses": [1946, 1952],
+      "def": "the feeling aroused by something strange and surprising",
+      "diff": 490,
+      "freq": 196.116,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 3.6078174616135708
+    },
+    {
+      "word": "family",
+      "uses": [1751, 1757],
+      "def": "a group of people related to one another",
+      "diff": 350,
+      "freq": 204.01427,
+      "ldc": 4,
+      "lgc": 2,
+      "rel": 3.56833384130349
+    },
+    {
+      "word": "add",
+      "uses": [1428, 1431],
+      "def": "join or combine or unite with others",
+      "diff": 300,
+      "freq": 253.30852,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 3.3519155864150103
+    },
+    {
+      "word": "state",
+      "uses": [396, 401],
+      "def": "the way something is with respect to its main attributes",
+      "diff": 460,
+      "freq": 257.2079,
+      "ldc": 6,
+      "lgc": 3,
+      "rel": 3.3366391169635206
+    },
+    {
+      "word": "need",
+      "uses": [1987, 1991],
+      "def": "require or want",
+      "diff": 360,
+      "freq": 266.74146,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 3.300243912596625
+    },
+    {
+      "word": "possible",
+      "uses": [1673, 1681],
+      "def": "capable of happening or existing",
+      "diff": 370,
+      "freq": 303.39435,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 3.1714903304743087
+    },
+    {
+      "word": "mean",
+      "uses": [422, 427],
+      "def": "denote or connote",
+      "diff": 490,
+      "freq": 447.7293,
+      "ldc": 6,
+      "lgc": 5,
+      "rel": 2.7823349398178294
+    }
+  ],
+  "sentences": [
+    [0, 95],
+    [96, 250],
+    [251, 322],
+    [323, 527],
+    [528, 584],
+    [585, 621],
+    [622, 782],
+    [783, 918],
+    [919, 1015],
+    [1016, 1124],
+    [1125, 1163],
+    [1164, 1260],
+    [1261, 1322],
+    [1323, 1474],
+    [1475, 1590],
+    [1591, 1667],
+    [1668, 1708],
+    [1709, 1827],
+    [1828, 1943],
+    [1944, 2107],
+    [2108, 2115]
+  ]
+}

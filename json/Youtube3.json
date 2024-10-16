@@ -1,0 +1,704 @@
+[
+    {
+        "start": 1.06,
+        "dur": 3.259,
+        "text": "Sometimes the world feels, hmm, boring.",
+        "vietnamese": "Đôi khi thế giới cảm thấy, hmm, nhàm chán."
+    },
+    {
+        "start": 5.02,
+        "dur": 6.56,
+        "text": "We've visited all the remote islands, conquered the Arctic, and penetrated the deepest jungles.",
+        "vietnamese": "Chúng tôi đã đến thăm tất cả các hòn đảo xa xôi, chinh phục Bắc Cực và thâm nhập vào những khu rừng sâu nhất."
+    },
+    {
+        "start": 12.42,
+        "dur": 2.78,
+        "text": "But there is still one place to explore.",
+        "vietnamese": "Nhưng vẫn còn một nơi để khám phá."
+    },
+    {
+        "start": 15.84,
+        "dur": 7.12,
+        "text": "It's a wet and deadly desert inhabited by mysterious creatures living in total darkness.",
+        "vietnamese": "Đó là một sa mạc ẩm ướt và chết người có người ở bởi những sinh vật bí ẩn sống trong bóng tối hoàn toàn."
+    },
+    {
+        "start": 23.42,
+        "dur": 1.56,
+        "text": "The deep sea.",
+        "vietnamese": "Biển sâu."
+    },
+    {
+        "start": 25.24,
+        "dur": 1.32,
+        "text": "Let's dive down.",
+        "vietnamese": "Hãy lặn xuống."
+    },
+    {
+        "start": 26.72,
+        "dur": 8.7,
+        "text": "[♫ Catchy Intro Jingle ♫]",
+        "vietnamese": "[♫ Giới thiệu hấp dẫn ♫]"
+    },
+    {
+        "start": 37.0,
+        "dur": 2.98,
+        "text": "When we look at the sheer scale of the Earth's oceans,",
+        "vietnamese": "Khi chúng ta nhìn vào quy mô tuyệt đối của các đại dương Trái đất,"
+    },
+    {
+        "start": 39.98,
+        "dur": 4.72,
+        "text": "It's hard to believe that less than 2% of all biomass on Earth lives here.",
+        "vietnamese": "Thật khó để tin rằng ít hơn 2% số sinh khối trên trái đất sống ở đây."
+    },
+    {
+        "start": 45.4,
+        "dur": 7.02,
+        "text": "And of that small percentage, around 90% is located close to the surface in the first 200 meters.",
+        "vietnamese": "Và trong số tỷ lệ nhỏ đó, khoảng 90% nằm gần bề mặt trong 200 mét đầu tiên."
+    },
+    {
+        "start": 53.48,
+        "dur": 2.2,
+        "text": "This is where we begin our journey.",
+        "vietnamese": "Đây là nơi chúng tôi bắt đầu hành trình của chúng tôi."
+    },
+    {
+        "start": 56.46,
+        "dur": 4.66,
+        "text": "Here, light can still penetrate the water which allows photosynthesis to occur.",
+        "vietnamese": "Ở đây, ánh sáng vẫn có thể xâm nhập vào nước cho phép quang hợp xảy ra."
+    },
+    {
+        "start": 61.6,
+        "dur": 5.96,
+        "text": "Phytoplankton, trillions and trillions of single-celled algae and bacteria make up the foundation",
+        "vietnamese": "Thực vật phù du, hàng nghìn tỷ và hàng nghìn tỷ tảo và vi khuẩn đơn bào tạo nên nền tảng"
+    },
+    {
+        "start": 67.56,
+        "dur": 6.52,
+        "text": "of the ocean's ecosystem, and they're consumed by bigger plankton, who are consumer by other species.",
+        "vietnamese": "của hệ sinh thái của đại dương, và chúng được tiêu thụ bởi các sinh vật phù du lớn hơn, là người tiêu dùng bởi các loài khác."
+    },
+    {
+        "start": 75.36,
+        "dur": 6.14,
+        "text": "The seafloor at this depth is akin to the Amazon rainforest, and is often covered with coral reefs, algae,",
+        "vietnamese": "Biển đáy ở độ sâu này giống như rừng nhiệt đới Amazon, và thường được bao phủ bởi các rạn san hô, tảo, tảo,"
+    },
+    {
+        "start": 81.5,
+        "dur": 3.94,
+        "text": "and other sea plants that are home to a plethora of sea animals.",
+        "vietnamese": "và những cây biển khác là nơi có rất nhiều động vật biển."
+    },
+    {
+        "start": 86.28,
+        "dur": 4.54,
+        "text": "So far, we've focused most of our attention on this comparatively pleasant environment,",
+        "vietnamese": "Cho đến nay, chúng tôi đã tập trung hầu hết sự chú ý của chúng tôi vào môi trường tương đối dễ chịu này,"
+    },
+    {
+        "start": 90.82,
+        "dur": 4.1,
+        "text": "where we fish, swim, pollute, and do science.",
+        "vietnamese": "nơi chúng ta câu cá, bơi lội, gây ô nhiễm và làm khoa học."
+    },
+    {
+        "start": 95.68,
+        "dur": 2.24,
+        "text": "So, let's dive deeper.",
+        "vietnamese": "Vì vậy, hãy lặn sâu hơn."
+    },
+    {
+        "start": 98.52,
+        "dur": 5.34,
+        "text": "Moving from familiar coastal waters into deeper, more remote waters, we eventually reach the edge",
+        "vietnamese": "Di chuyển từ vùng nước ven biển quen thuộc vào vùng nước sâu hơn, xa hơn, cuối cùng chúng ta cũng đến được rìa"
+    },
+    {
+        "start": 103.86,
+        "dur": 4.1,
+        "text": "of the continental shelf, where we're confronted with the continental slope,",
+        "vietnamese": "của thềm lục địa, nơi chúng ta phải đối mặt với con dốc lục địa,"
+    },
+    {
+        "start": 107.96,
+        "dur": 2.52,
+        "text": "the long descent down to the deep sea.",
+        "vietnamese": "Dòng xuống dài xuống biển sâu."
+    },
+    {
+        "start": 111.28,
+        "dur": 5.7,
+        "text": "With every additional meter of water, light fades drastically, which means there are basically",
+        "vietnamese": "Với mỗi mét nước, ánh sáng mờ dần mạnh mẽ, có nghĩa là về cơ bản có"
+    },
+    {
+        "start": 116.98,
+        "dur": 6.12,
+        "text": "no more plants, and the seemingly steep continental slope begins to remind us of the surface of the Moon.",
+        "vietnamese": "Không còn thực vật, và con dốc lục địa dường như dốc bắt đầu nhắc nhở chúng ta về bề mặt của mặt trăng."
+    },
+    {
+        "start": 123.76,
+        "dur": 3.98,
+        "text": "Looking out we're faced by what seems to be endless open water.",
+        "vietnamese": "Nhìn ra chúng ta phải đối mặt với những gì dường như là nước mở vô tận."
+    },
+    {
+        "start": 128.36,
+        "dur": 5.84,
+        "text": "Let's leave the slope behind us, and enter what's known as the Twilight Zone, the portal to the deep sea.",
+        "vietnamese": "Hãy để lại dốc phía sau chúng tôi, và vào nơi được gọi là Khu vực hoàng hôn, cổng thông tin đến Biển sâu."
+    },
+    {
+        "start": 134.46,
+        "dur": 4.4,
+        "text": "As we sink down further, the water pressure rises to deadly levels.",
+        "vietnamese": "Khi chúng tôi chìm xuống xa hơn, áp lực nước tăng lên mức chết người."
+    },
+    {
+        "start": 139.78,
+        "dur": 4.32,
+        "text": "The deepest scuba dive ever came in at 332 meters.",
+        "vietnamese": "Việc lặn biển sâu nhất từng đến 332 mét."
+    },
+    {
+        "start": 144.1,
+        "dur": 4.68,
+        "text": "At that depth, the pressure is like having 200 cars stacked on top of you.",
+        "vietnamese": "Ở độ sâu đó, áp lực giống như có 200 chiếc xe xếp chồng lên nhau."
+    },
+    {
+        "start": 149.66,
+        "dur": 3.68,
+        "text": "Yet we've only completed 3% of our journey.",
+        "vietnamese": "Tuy nhiên, chúng tôi chỉ hoàn thành 3% hành trình của mình."
+    },
+    {
+        "start": 153.74,
+        "dur": 3.92,
+        "text": "While this region seems pretty grim, many fish and other animals",
+        "vietnamese": "Trong khi khu vực này có vẻ khá nghiệt ngã, nhiều cá và các động vật khác"
+    },
+    {
+        "start": 157.66,
+        "dur": 2.64,
+        "text": "actually spend at least half their lives down here.",
+        "vietnamese": "Trên thực tế, dành ít nhất một nửa cuộc sống của họ ở đây."
+    },
+    {
+        "start": 160.9,
+        "dur": 6.4,
+        "text": "During the day, it's a good place to rest and recover, hidden from predators in the vast dark waters.",
+        "vietnamese": "Vào ban ngày, đó là một nơi tốt để nghỉ ngơi và phục hồi, ẩn giấu khỏi những kẻ săn mồi trong vùng nước tối lớn."
+    },
+    {
+        "start": 167.7,
+        "dur": 5.66,
+        "text": "At night, they can travel more safely into shallower zones to feed in the food-rich surface waters.",
+        "vietnamese": "Vào ban đêm, chúng có thể đi du lịch an toàn hơn vào các khu vực nông hơn để nuôi trong nước mặt giàu thực phẩm."
+    },
+    {
+        "start": 174.36,
+        "dur": 5.3,
+        "text": "In this transition zone between Twilight and Darkness, light becomes a powerful tool.",
+        "vietnamese": "Trong vùng chuyển tiếp này giữa Twilight và Darkness, ánh sáng trở thành một công cụ mạnh mẽ."
+    },
+    {
+        "start": 181.1,
+        "dur": 4.0,
+        "text": "Over 90% of the species indigenous to this deep environment",
+        "vietnamese": "Hơn 90% loài bản địa của môi trường sâu này"
+    },
+    {
+        "start": 185.1,
+        "dur": 2.74,
+        "text": "use bioluminescence chemicals to create light.",
+        "vietnamese": "Sử dụng hóa chất phát quang sinh học để tạo ra ánh sáng."
+    },
+    {
+        "start": 188.78,
+        "dur": 5.7,
+        "text": "They do so as camouflage against the very faint sunlight, to send signals to potential mates,",
+        "vietnamese": "Họ làm như vậy như ngụy trang chống lại ánh sáng mặt trời rất mờ nhạt, để gửi tín hiệu cho các bạn tình tiềm năng,"
+    },
+    {
+        "start": 194.48,
+        "dur": 2.28,
+        "text": "or to confuse and scare attackers.",
+        "vietnamese": "hoặc để gây nhầm lẫn và sợ kẻ tấn công."
+    },
+    {
+        "start": 197.2,
+        "dur": 2.3,
+        "text": "Or, they use lights to hunt.",
+        "vietnamese": "Hoặc, họ sử dụng đèn để săn bắn."
+    },
+    {
+        "start": 200.58,
+        "dur": 3.1,
+        "text": "Another tool for survival in the dark is teamwork.",
+        "vietnamese": "Một công cụ khác để sinh tồn trong bóng tối là tinh thần đồng đội."
+    },
+    {
+        "start": 204.26,
+        "dur": 4.14,
+        "text": "At around 700 meters, we encounter a colony of siphonophores.",
+        "vietnamese": "Ở khoảng 700 mét, chúng tôi bắt gặp một thuộc địa của Siphonophores."
+    },
+    {
+        "start": 208.92,
+        "dur": 4.5,
+        "text": "They can be up to 50 metres in length, but are only as wide as a broomstick.",
+        "vietnamese": "Chúng có thể dài tới 50 mét, nhưng chỉ rộng bằng một cây chổi."
+    },
+    {
+        "start": 214.3,
+        "dur": 5.7,
+        "text": "To attract prey, a colony creates a tragically beautiful bright blue or red light,",
+        "vietnamese": "Để thu hút con mồi, một thuộc địa tạo ra một ánh sáng màu xanh sáng hoặc đỏ rực rỡ bi thảm,"
+    },
+    {
+        "start": 220.0,
+        "dur": 6.96,
+        "text": "and deploys a curtain of tentacles filled with toxic needles that kill anything that comes too close.",
+        "vietnamese": "và triển khai một bức màn của các xúc tu chứa đầy những kim độc hại giết chết bất cứ thứ gì đến quá gần."
+    },
+    {
+        "start": 227.94,
+        "dur": 5.96,
+        "text": "But most species living down here have to rely on an unlikely resource: Marine Snow.",
+        "vietnamese": "Nhưng hầu hết các loài sống ở đây phải dựa vào một nguồn tài nguyên không thể: tuyết biển."
+    },
+    {
+        "start": 234.36,
+        "dur": 4.58,
+        "text": "White flaky stuff that constantly sinks from the surface to the bottom of the ocean.",
+        "vietnamese": "Những thứ dễ vỡ màu trắng liên tục chìm từ bề mặt xuống đáy đại dương."
+    },
+    {
+        "start": 239.7,
+        "dur": 2.78,
+        "text": "It consists of dead plant or animal parts,",
+        "vietnamese": "Nó bao gồm các bộ phận thực vật hoặc động vật chết,"
+    },
+    {
+        "start": 242.48,
+        "dur": 1.16,
+        "text": "fecal matter,",
+        "vietnamese": "chất phân,"
+    },
+    {
+        "start": 243.64,
+        "dur": 1.8,
+        "text": "shells, sand, or dust.",
+        "vietnamese": "Vỏ, cát hoặc bụi."
+    },
+    {
+        "start": 246.48,
+        "dur": 6.4,
+        "text": "Even though this doesn't sound very tasty, without this crucial resource, life in the deep sea would starve.",
+        "vietnamese": "Mặc dù điều này không có vẻ rất ngon, nhưng không có nguồn tài nguyên quan trọng này, cuộc sống ở vùng biển sâu sẽ chết đói."
+    },
+    {
+        "start": 253.9,
+        "dur": 4.84,
+        "text": "It's in this area that the most fascinating battles between two unlikely enemies could happen.",
+        "vietnamese": "Chính trong lĩnh vực này, những trận chiến hấp dẫn nhất giữa hai kẻ thù không thể xảy ra."
+    },
+    {
+        "start": 259.6,
+        "dur": 4.02,
+        "text": "Sperm whales hunt and attack giant squid the size of a house.",
+        "vietnamese": "Cá voi săn bắn và tấn công mực khổng lồ có kích thước của một ngôi nhà."
+    },
+    {
+        "start": 264.66,
+        "dur": 4.04,
+        "text": "While the squid fight back ferociously, they probably don't stand a chance,",
+        "vietnamese": "Trong khi con mực chiến đấu trở lại một cách hung dữ, có lẽ họ không có cơ hội,"
+    },
+    {
+        "start": 268.7,
+        "dur": 3.24,
+        "text": "but they do leave permanent marks on their killer's skin.",
+        "vietnamese": "Nhưng họ để lại những dấu ấn vĩnh viễn trên làn da giết người của họ."
+    },
+    {
+        "start": 272.86,
+        "dur": 5.86,
+        "text": "As we reach 1,000 meters, deeper than the tallest structure built by humans, we need to be careful.",
+        "vietnamese": "Khi chúng ta đạt tới 1.000 mét, sâu hơn cấu trúc cao nhất được xây dựng bởi con người, chúng ta cần phải cẩn thận."
+    },
+    {
+        "start": 279.26,
+        "dur": 4.56,
+        "text": "This is the Midnight Zone, a place of utter darkness.",
+        "vietnamese": "Đây là vùng nửa đêm, một nơi của bóng tối hoàn toàn."
+    },
+    {
+        "start": 284.72,
+        "dur": 5.42,
+        "text": "A barely explored wet wasteland consisting of nothing but endless black open water.",
+        "vietnamese": "Một vùng đất hoang được khám phá hầu như không có gì ngoài nước đen vô tận."
+    },
+    {
+        "start": 290.9,
+        "dur": 4.92,
+        "text": "At these depths, it's harder for a human to take a swim than to take a walk in space.",
+        "vietnamese": "Ở những độ sâu này, một người khó khăn hơn khi đi bơi hơn là đi bộ trong không gian."
+    },
+    {
+        "start": 297.08,
+        "dur": 6.16,
+        "text": "Finding food down here is really hard, so life had to adapt, and become extremely energy-efficient.",
+        "vietnamese": "Tìm kiếm thức ăn ở đây thực sự khó khăn, vì vậy cuộc sống phải thích nghi và trở nên cực kỳ tiết kiệm năng lượng."
+    },
+    {
+        "start": 303.82,
+        "dur": 4.78,
+        "text": "Like the 30-centimeter-long vampire squid that floats through the water without motion,",
+        "vietnamese": "Giống như mực ma cà rồng dài 30 cm nổi trên mặt nước mà không cần chuyển động,"
+    },
+    {
+        "start": 308.6,
+        "dur": 2.8,
+        "text": "with long and slender catching arms extended.",
+        "vietnamese": "Với cánh tay bắt dài và mảnh khảnh mở rộng."
+    },
+    {
+        "start": 312.22,
+        "dur": 4.08,
+        "text": "They're covered in tiny stiff hairs, which brush food from the water.",
+        "vietnamese": "Chúng được bao phủ trong những sợi lông cứng nhỏ, chải thức ăn từ nước."
+    },
+    {
+        "start": 316.88,
+        "dur": 3.82,
+        "text": "This saves a lot of energy compared to actively catching food.",
+        "vietnamese": "Điều này tiết kiệm rất nhiều năng lượng so với thực phẩm chủ động."
+    },
+    {
+        "start": 321.9,
+        "dur": 5.82,
+        "text": "For carnivorous fish, it's much harder to find food since living prey is quite rare down here.",
+        "vietnamese": "Đối với cá ăn thịt, việc tìm thức ăn khó hơn nhiều vì con mồi sống là khá hiếm ở đây."
+    },
+    {
+        "start": 329.1,
+        "dur": 5.96,
+        "text": "So the hunters have to get a perfect grip on their victim on first strike. Otherwise, it will escape into the dark.",
+        "vietnamese": "Vì vậy, các thợ săn phải có được một nắm bắt hoàn hảo cho nạn nhân của họ trong cuộc đình công đầu tiên. Nếu không, nó sẽ trốn thoát vào bóng tối."
+    },
+    {
+        "start": 335.9,
+        "dur": 3.86,
+        "text": "Many deep-sea predators have several sets of long and deadly teeth.",
+        "vietnamese": "Nhiều kẻ săn mồi biển sâu có một vài bộ răng dài và chết người."
+    },
+    {
+        "start": 340.62,
+        "dur": 5.64,
+        "text": "Like the viperfish, which uses its long fangs to trap even large prey and swallow it whole.",
+        "vietnamese": "Giống như Viperfish, sử dụng răng nanh dài của nó để bẫy ngay cả con mồi lớn và nuốt toàn bộ nó."
+    },
+    {
+        "start": 347.04,
+        "dur": 4.02,
+        "text": "Or the frilled shark, with its impressive set of 300 teeth,",
+        "vietnamese": "Hoặc cá mập rườm rà, với bộ 300 răng ấn tượng,"
+    },
+    {
+        "start": 351.06,
+        "dur": 3.38,
+        "text": "which are curved backwards to hook their victims in their mouths.",
+        "vietnamese": "được cong ngược để móc nạn nhân của họ trong miệng."
+    },
+    {
+        "start": 355.38,
+        "dur": 1.26,
+        "text": "We sink further.",
+        "vietnamese": "Chúng tôi chìm hơn nữa."
+    },
+    {
+        "start": 356.88,
+        "dur": 7.72,
+        "text": "Below the 3800 mark, as deep as the grave of the Titanic, we are now at abyssal depths.",
+        "vietnamese": "Dưới mốc 3800, sâu như ngôi mộ của Titanic, chúng ta hiện đang ở độ sâu thẳm."
+    },
+    {
+        "start": 365.64,
+        "dur": 2.7,
+        "text": "Here, life happens in slow motion.",
+        "vietnamese": "Ở đây, cuộc sống xảy ra trong chuyển động chậm."
+    },
+    {
+        "start": 369.24,
+        "dur": 4.08,
+        "text": "Preserving every last bit of energy is crucial for survival.",
+        "vietnamese": "Bảo tồn mọi chút năng lượng cuối cùng là rất quan trọng cho sự sống còn."
+    },
+    {
+        "start": 374.1,
+        "dur": 5.74,
+        "text": "Everything down here hovers motionless, or swims in a slow, elegant fashion.",
+        "vietnamese": "Mọi thứ ở đây lơ lửng bất động, hoặc bơi theo cách chậm chạp, thanh lịch."
+    },
+    {
+        "start": 380.9,
+        "dur": 5.72,
+        "text": "The only time the animals living in this zone move fast is when they have to escape danger.",
+        "vietnamese": "Lần duy nhất các con vật sống trong khu vực này di chuyển nhanh là khi chúng phải thoát khỏi nguy hiểm."
+    },
+    {
+        "start": 387.5,
+        "dur": 7.28,
+        "text": "Like the Dumbo octopod paddling with its ear-like fins, or the grenadiers fish with its slow eel-like tail beats.",
+        "vietnamese": "Giống như mái chèo bạch tuộc Dumbo với những chiếc vây giống như tai, hoặc cá Grenadiers với những nhịp đuôi giống như lươn chậm."
+    },
+    {
+        "start": 395.82,
+        "dur": 4.72,
+        "text": "At 4,000 meters, we've finally reached ground again. The Abyssal Plain.",
+        "vietnamese": "Ở độ cao 4.000 mét, cuối cùng chúng tôi đã đến được mặt đất một lần nữa. Đồng bằng Abyssal."
+    },
+    {
+        "start": 401.02,
+        "dur": 4.38,
+        "text": "It's covered in grey mud and rocks dusted with the remains of marine snow,",
+        "vietnamese": "Nó được bao phủ trong bùn xám và những tảng đá phủ đầy phần còn lại của tuyết biển,"
+    },
+    {
+        "start": 405.4,
+        "dur": 5.66,
+        "text": "which is consumed by animals like sea cucumbers, shrimp, sea urchins, and sea worms.",
+        "vietnamese": "được tiêu thụ bởi các động vật như dưa chuột biển, tôm, nhím biển và giun biển."
+    },
+    {
+        "start": 411.82,
+        "dur": 4.24,
+        "text": "In some regions of the seafloor, small dark mineral deposits can be seen.",
+        "vietnamese": "Ở một số vùng của đáy biển, có thể nhìn thấy các mỏ khoáng nhỏ nhỏ."
+    },
+    {
+        "start": 416.96,
+        "dur": 2.2,
+        "text": "These are manganese nodules.",
+        "vietnamese": "Đây là những nốt sần mangan."
+    },
+    {
+        "start": 420.0,
+        "dur": 4.36,
+        "text": "Deep-sea corals and sponges use them to anchor themselves on the bottom of the sea.",
+        "vietnamese": "San hô và bọt biển sâu sử dụng chúng để neo mình dưới đáy biển."
+    },
+    {
+        "start": 425.48,
+        "dur": 4.94,
+        "text": "Though life is sparse on the deep sea floor, even down here there are oases.",
+        "vietnamese": "Mặc dù cuộc sống thưa thớt trên đáy biển sâu, thậm chí ở đây có những ốc đảo."
+    },
+    {
+        "start": 430.82,
+        "dur": 6.74,
+        "text": "In the rift valleys, where tectonic plates are splitting apart, magma heats up seawater and creates dark jets",
+        "vietnamese": "Trong các thung lũng rạn nứt, nơi các tấm kiến ​​tạo đang tách ra, magma làm nóng nước biển và tạo ra các máy bay phản lực tối"
+    },
+    {
+        "start": 437.56,
+        "dur": 5.8,
+        "text": "of water and minerals as hot as 400℃ (752℉), that form elaborate chimneys and towers.",
+        "vietnamese": "nước và khoáng chất nóng như 400 ℃ (752), tạo thành các ống khói và tháp công phu."
+    },
+    {
+        "start": 444.46,
+        "dur": 6.6,
+        "text": "Extremophile bacteria use the minerals to create organic substances, that are the bases for unique ecosystems.",
+        "vietnamese": "Vi khuẩn cực đoan sử dụng các khoáng chất để tạo ra các chất hữu cơ, đó là các cơ sở cho các hệ sinh thái độc đáo."
+    },
+    {
+        "start": 452.02,
+        "dur": 5.48,
+        "text": "As we descend further, we reach the deepest point of the abyssal plain at 6,000 meters.",
+        "vietnamese": "Khi chúng tôi xuống xa hơn, chúng tôi đạt đến điểm sâu nhất của đồng bằng thẳm ở độ cao 6.000 mét."
+    },
+    {
+        "start": 458.54,
+        "dur": 6.18,
+        "text": "For most of the seafloor, this is as deep as it gets, but if we want to get to the deepest point of the oceans,",
+        "vietnamese": "Đối với hầu hết các đáy biển, điều này cũng sâu như nó, nhưng nếu chúng ta muốn đi đến điểm sâu nhất của các đại dương,"
+    },
+    {
+        "start": 464.72,
+        "dur": 1.92,
+        "text": "we're actually only halfway there.",
+        "vietnamese": "Chúng tôi thực sự chỉ ở một nửa đó."
+    },
+    {
+        "start": 467.7,
+        "dur": 3.7,
+        "text": "Let's enter the Hadal Zone, the underworld of the sea.",
+        "vietnamese": "Hãy vào khu vực Hadal, thế giới ngầm của biển."
+    },
+    {
+        "start": 472.34,
+        "dur": 7.08,
+        "text": "It consists of long narrow trenches that only make up around 0.25% of the oceans, and are among",
+        "vietnamese": "Nó bao gồm các rãnh hẹp dài chỉ chiếm khoảng 0,25% các đại dương và nằm trong số"
+    },
+    {
+        "start": 479.42,
+        "dur": 2.0,
+        "text": "the most extreme environments on Earth.",
+        "vietnamese": "môi trường khắc nghiệt nhất trên trái đất."
+    },
+    {
+        "start": 482.18,
+        "dur": 7.18,
+        "text": "Only extremophiles exist down here, like the ethereal snailfish, that holds the record for deepest living fish",
+        "vietnamese": "Chỉ có những người cực đoan tồn tại ở đây, giống như cá sên thanh tao, giữ kỷ lục về cá sống sâu nhất"
+    },
+    {
+        "start": 489.36,
+        "dur": 2.44,
+        "text": "ever seen, at around 8,000 meters.",
+        "vietnamese": "từng thấy, ở khoảng 8.000 mét."
+    },
+    {
+        "start": 492.88,
+        "dur": 4.84,
+        "text": "We see spiky and sharp black rocks rush by as we sink down to more than 10,000.",
+        "vietnamese": "Chúng ta thấy những tảng đá đen và sắc nét vội vã khi chúng ta chìm xuống hơn 10.000."
+    },
+    {
+        "start": 498.78,
+        "dur": 7.26,
+        "text": "Until we reach the final slope, a trench inside the larger Mariana Trench with gently-sloping sides",
+        "vietnamese": "Cho đến khi chúng tôi đạt đến độ dốc cuối cùng, một rãnh bên trong rãnh Mariana lớn hơn với các mặt dốc nhẹ nhàng"
+    },
+    {
+        "start": 506.04,
+        "dur": 3.4,
+        "text": "that enframe a valley about 1.6 kilometers wide.",
+        "vietnamese": "Đó là một thung lũng rộng khoảng 1,6 km."
+    },
+    {
+        "start": 510.46,
+        "dur": 3.78,
+        "text": "This is it. The deepest point, the Challenger Deep.",
+        "vietnamese": "Đây là nó. Điểm sâu nhất, Challenger Deep."
+    },
+    {
+        "start": 514.96,
+        "dur": 2.34,
+        "text": "11,000 meters below the surface.",
+        "vietnamese": "11.000 mét dưới bề mặt."
+    },
+    {
+        "start": 518.679,
+        "dur": 3.62,
+        "text": "The water pressure here is 1,086 bar.",
+        "vietnamese": "Áp lực nước ở đây là 1.086 bar."
+    },
+    {
+        "start": 523.9,
+        "dur": 4.22,
+        "text": "Taking a swim here is like having to balance 1,800 elephants on top of you.",
+        "vietnamese": "Bơi ở đây giống như phải cân bằng 1.800 con voi trên đầu bạn."
+    },
+    {
+        "start": 529.02,
+        "dur": 2.9,
+        "text": "But even here, life has found a way to thrive.",
+        "vietnamese": "Nhưng ngay cả ở đây, cuộc sống đã tìm ra một cách để phát triển mạnh."
+    },
+    {
+        "start": 533.0,
+        "dur": 4.88,
+        "text": "Next to sea cucumbers, white and light pink amphipods wiggle their way through the water.",
+        "vietnamese": "Bên cạnh dưa chuột biển, những con amphipods trắng và màu hồng nhạt ngọ nguậy trên mặt nước."
+    },
+    {
+        "start": 538.68,
+        "dur": 1.74,
+        "text": "Their size is astounding.",
+        "vietnamese": "Kích thước của chúng là đáng kinh ngạc."
+    },
+    {
+        "start": 541.2,
+        "dur": 4.4,
+        "text": "While their shallow-water cousins are maybe a few centimetres long, the deep-sea version",
+        "vietnamese": "Trong khi anh em họ nước nông của họ có thể dài vài cm, phiên bản sâu biển sâu"
+    },
+    {
+        "start": 545.6,
+        "dur": 2.02,
+        "text": "can reach up to 30 centimeters.",
+        "vietnamese": "Có thể đạt tới 30 cm."
+    },
+    {
+        "start": 548.98,
+        "dur": 3.64,
+        "text": "And there are other things floating elegantly through the water.",
+        "vietnamese": "Và có những thứ khác trôi nổi thanh lịch qua mặt nước."
+    },
+    {
+        "start": 553.5,
+        "dur": 3.34,
+        "text": "Plastic bags that were found by scientists in 2018.",
+        "vietnamese": "Túi nhựa được các nhà khoa học tìm thấy vào năm 2018."
+    },
+    {
+        "start": 557.72,
+        "dur": 4.22,
+        "text": "Even the remotest place on Earth is not safe from human influence.",
+        "vietnamese": "Ngay cả nơi xa xôi trên trái đất cũng không an toàn trước ảnh hưởng của con người."
+    },
+    {
+        "start": 563.5,
+        "dur": 5.72,
+        "text": "There's nothing left to do now and our oxygen is running out, so we begin our ascent.",
+        "vietnamese": "Không còn gì để làm bây giờ và oxy của chúng tôi đang cạn kiệt, vì vậy chúng tôi bắt đầu đi lên."
+    },
+    {
+        "start": 569.22,
+        "dur": 9.92,
+        "text": "[♪ Deep Sea Ambience ♪]",
+        "vietnamese": "[♪ Biển biển sâu ♪]"
+    },
+    {
+        "start": 579.14,
+        "dur": 5.556,
+        "text": "After hours of traveling through dark nothingness, we finally see a glimpse of light.",
+        "vietnamese": "Sau nhiều giờ đi du lịch qua hư vô bóng tối, cuối cùng chúng tôi cũng thấy một cái nhìn thoáng qua."
+    },
+    {
+        "start": 584.9,
+        "dur": 1.92,
+        "text": "We arrive back at a calm surface.",
+        "vietnamese": "Chúng tôi trở lại một bề mặt bình tĩnh."
+    },
+    {
+        "start": 588.08,
+        "dur": 4.8,
+        "text": "The oceans are so deep. There is so much of them.",
+        "vietnamese": "Các đại dương rất sâu. Có rất nhiều trong số họ."
+    },
+    {
+        "start": 593.66,
+        "dur": 4.92,
+        "text": "We owe it to ourselves and to our descendants to preserve them as well as we can.",
+        "vietnamese": "Chúng tôi nợ nó và con cháu của chúng tôi để bảo tồn chúng tốt nhất có thể."
+    },
+    {
+        "start": 599.64,
+        "dur": 4.08,
+        "text": "There are still so many wondrous things left to be discovered.",
+        "vietnamese": "Vẫn còn rất nhiều điều tuyệt vời còn lại để được phát hiện."
+    }
+]

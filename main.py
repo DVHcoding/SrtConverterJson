@@ -74,4 +74,4 @@ def srt_to_json(srt_file, json_file):
     print("Completed!")  # Thông báo hoàn tất
 
 # Example usage
-srt_to_json('./srt/test.srt', './json/test.json')
+srt_to_json('./srt/[English] The exploitation of US college athletes _ Tim Nevius [DownSub.com].srt', './json/Ted2.json')

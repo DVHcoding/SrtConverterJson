@@ -1,0 +1,236 @@
+{
+  "format": "text",
+  "words": [
+    {
+      "word": "first person",
+      "uses": [4, 16],
+      "def": "pronouns and verbs used to refer to the speaker",
+      "diff": 390,
+      "freq": 1.9317539,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 9.003846144739503
+    },
+    {
+      "word": "unique",
+      "uses": [368, 374],
+      "def": "the single one of its kind",
+      "diff": 400,
+      "freq": 11.234158,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 7.243315558420892
+    },
+    {
+      "word": "adult",
+      "uses": [649, 655],
+      "def": "a fully developed person from maturity onward",
+      "diff": 300,
+      "freq": 14.374442,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.996822702381978
+    },
+    {
+      "word": "smart",
+      "uses": [343, 348],
+      "def": "characterized by quickness and ease in learning",
+      "diff": 490,
+      "freq": 20.012672,
+      "ldc": 5,
+      "lgc": 3,
+      "rel": 6.665908783797339
+    },
+    {
+      "word": "handle",
+      "uses": [540, 546],
+      "def": "touch, lift, or hold",
+      "diff": 370,
+      "freq": 38.0276,
+      "ldc": 7,
+      "lgc": 1,
+      "rel": 6.023962283532532
+    },
+    {
+      "word": "passion",
+      "uses": [875, 882],
+      "def": "a strong feeling or emotion",
+      "diff": 450,
+      "freq": 38.635754,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 6.008096370271374
+    },
+    {
+      "word": "affection",
+      "uses": [402, 411],
+      "def": "a positive feeling of liking",
+      "diff": 420,
+      "freq": 41.19056,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.944065388902539
+    },
+    {
+      "word": "tired",
+      "uses": [711, 716],
+      "def": "depleted of strength or energy",
+      "diff": 460,
+      "freq": 42.612637,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.91012363561703
+    },
+    {
+      "word": "encourage",
+      "uses": [777, 786],
+      "def": "inspire with confidence",
+      "diff": 400,
+      "freq": 45.958347,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 5.834538984662724
+    },
+    {
+      "word": "happiness",
+      "uses": [115, 124],
+      "def": "state of well-being characterized by contentment and joy",
+      "diff": 410,
+      "freq": 50.93969,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.73163210111326
+    },
+    {
+      "word": "need",
+      "uses": [608, 612, 721, 725, 909, 913],
+      "def": "require or want",
+      "diff": 360,
+      "freq": 266.74146,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 5.723913054693944
+    },
+    {
+      "word": "worthy",
+      "uses": [383, 389],
+      "def": "an important, honorable person",
+      "diff": 410,
+      "freq": 56.82057,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.622376036430989
+    },
+    {
+      "word": "confidence",
+      "uses": [447, 457],
+      "def": "belief in yourself and your abilities",
+      "diff": 430,
+      "freq": 60.067123,
+      "ldc": 4,
+      "lgc": 1,
+      "rel": 5.5668118174453225
+    },
+    {
+      "word": "wonderful",
+      "uses": [230, 239],
+      "def": "extraordinarily good or great",
+      "diff": 250,
+      "freq": 60.83502,
+      "ldc": 1,
+      "lgc": 1,
+      "rel": 5.5541088981957945
+    },
+    {
+      "word": "difficult",
+      "uses": [185, 194],
+      "def": "requiring great physical or mental effort to accomplish",
+      "diff": 300,
+      "freq": 69.62301,
+      "ldc": 2,
+      "lgc": 1,
+      "rel": 5.419179380032039
+    },
+    {
+      "word": "cause",
+      "uses": [101, 106, 132, 137],
+      "def": "events that provide the generative force of something",
+      "diff": 480,
+      "freq": 224.64389,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 5.287478809775551
+    },
+    {
+      "word": "standing",
+      "uses": [472, 480],
+      "def": "status or reputation",
+      "diff": 490,
+      "freq": 83.78424,
+      "ldc": 7,
+      "lgc": 1,
+      "rel": 5.234029546313298
+    },
+    {
+      "word": "pain",
+      "uses": [145, 149],
+      "def": "a physical feeling of suffering or discomfort",
+      "diff": 370,
+      "freq": 104.92253,
+      "ldc": 5,
+      "lgc": 1,
+      "rel": 5.0090521988455485
+    },
+    {
+      "word": "comfort",
+      "uses": [761, 768],
+      "def": "a state of being relaxed and feeling no pain",
+      "diff": 410,
+      "freq": 108.18905,
+      "ldc": 8,
+      "lgc": 1,
+      "rel": 4.978394329497446
+    },
+    {
+      "word": "satisfy",
+      "uses": [826, 833],
+      "def": "meet the requirements or expectations of",
+      "diff": 410,
+      "freq": 120.82701,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 4.867914615517728
+    },
+    {
+      "word": "prepare",
+      "uses": [421, 429],
+      "def": "make ready or suitable or equip in advance",
+      "diff": 410,
+      "freq": 134.05486,
+      "ldc": 6,
+      "lgc": 2,
+      "rel": 4.764025393472592
+    },
+    {
+      "word": "mean",
+      "uses": [495, 499, 513, 518],
+      "def": "denote or connote",
+      "diff": 490,
+      "freq": 447.7293,
+      "ldc": 6,
+      "lgc": 5,
+      "rel": 4.597806419752903
+    },
+    {
+      "word": "moment",
+      "uses": [692, 698],
+      "def": "an indefinitely short time",
+      "diff": 370,
+      "freq": 304.7792,
+      "ldc": 3,
+      "lgc": 1,
+      "rel": 3.942686880437169
+    }
+  ],
+  "sentences": [[0, 945]]
+}
